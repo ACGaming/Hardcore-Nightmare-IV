@@ -1,0 +1,66 @@
+# DE lang file
+
+# Creative Tabs
+itemGroup.improvedbackpacks=Improved Backpacks
+
+# Items
+item.backpack.name=Rucksack
+item.backpack.white.name=Weißer Rucksack
+item.backpack.orange.name=Oranger Rucksack
+item.backpack.magenta.name=Magenta Rucksack
+item.backpack.lightBlue.name=Hellblauer Rucksack
+item.backpack.yellow.name=Gelber Rucksack
+item.backpack.lime.name=Hellgrüner Rucksack
+item.backpack.pink.name=Rosa Rucksack
+item.backpack.gray.name=Grauer Rucksack
+item.backpack.silver.name=Hellgrauer Rucksack
+item.backpack.cyan.name=Türkiser Rucksack
+item.backpack.purple.name=Violetter Rucksack
+item.backpack.blue.name=Blauer Rucksack
+item.backpack.brown.name=Brauner Rucksack
+item.backpack.green.name=Grüner Rucksack
+item.backpack.red.name=Roter Rucksack
+item.backpack.black.name=Schwarzer Rucksack
+item.ender_backpack.name=Ender-Rucksack
+item.upgrade.storage_wood.name=Lagerplatz-Upgrade (Holz)
+item.upgrade.storage_stone.name=Lagerplatz-Upgrade (Stein)
+item.upgrade.storage_iron.name=Lagerplatz-Upgrade (Eisen)
+item.upgrade.storage_gold.name=Lagerplatz-Upgrade (Gold)
+item.upgrade.storage_diamond.name=Lagerplatz-Upgrade (Diamant)
+item.blank_upgrade.name=Leeres Upgrade
+item.tanned_leather.name=Gegerbtes Leder
+item.bound_leather.name=Gebundenes Leder
+
+# Tiles
+tile.backpack.name=Rucksack
+tile.ender_backpack.name=Ender-Rucksack
+
+# GUIs
+gui.rename.title=Umbenennen
+gui.rename.reset_name=Namen zurücksetzen
+
+# Tooltips
+tooltip.tier=Stufe
+tooltip.next_upgrade=Nächstes Upgrade ist
+tooltip.max_upgraded=Dieser Rucksack ist maximal aufgerüstet
+tooltip.backpack_info=Drücke <%s> für weitere Informationen
+tooltip.upgrade.storage_wood=Holz
+tooltip.upgrade.storage_stone=Stein
+tooltip.upgrade.storage_iron=Eisen
+tooltip.upgrade.storage_gold=Gold
+tooltip.upgrade.storage_diamond=Diamant
+tooltip.hint.rename=Schleichen + %s in der Luft zum Umbenennen
+tooltip.hint.place=Schleichen + %s auf einen Block zum Platzieren
+tooltip.disabled_in_config=Deaktiviert in der Konfiguration
+
+# Advancements
+advancements.main.root.title=Verbesserte Rucksäcke
+advancements.main.root.description=Lagerung in der Tasche
+advancements.main.craft_backpack.title=Rucksack
+advancements.main.craft_backpack.description=Mach deinen ersten Rucksack
+advancements.main.upgrade_backpack.title=Rucksack aufrüsten
+advancements.main.upgrade_backpack.description=Verwende ein Upgrade auf einen Rucksack
+
+# Descriptions
+desc.backpack_description=Aufrüstbarer Taschenspeicher.
+desc.ender_backpack_description=Taschen-Endertruhe.

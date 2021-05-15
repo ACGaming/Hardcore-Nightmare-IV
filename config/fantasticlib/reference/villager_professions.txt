@@ -1,0 +1,14 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+fossil:archeologist
+fossil:palaeontologist
+oreberries:tinker
+rewired:runner
+animania:pet_seller
+gravestone-extended:undertaker
+miniheads:storeowner
+sophisticatedwolves:pets_seller

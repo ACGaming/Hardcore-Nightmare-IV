@@ -1,0 +1,42 @@
+{
+	"audiodeath.death": {
+		"category": "record",
+		"sounds": [
+			"audiodeath:death-abschied",
+			"audiodeath:death-alex",
+			"audiodeath:death-amongus",
+			"audiodeath:death-arschloch",
+			"audiodeath:death-banjokazooie",
+			"audiodeath:death-betrueger",
+			"audiodeath:death-bruh",
+			"audiodeath:death-buggerit",
+			"audiodeath:death-datwars",
+			"audiodeath:death-fail",
+			"audiodeath:death-fart",
+			"audiodeath:death-frischimkopf",
+			"audiodeath:death-goodbye",
+			"audiodeath:death-keinenbock",
+			"audiodeath:death-kidicarus",
+			"audiodeath:death-kirbysuperstar",
+			"audiodeath:death-komplett",
+			"audiodeath:death-mario",
+			"audiodeath:death-mlg",
+			"audiodeath:death-newsmb",
+			"audiodeath:death-ohmama",
+			"audiodeath:death-ohrensteif",
+			"audiodeath:death-oof",
+			"audiodeath:death-pacman",
+			"audiodeath:death-rhythmheavenfever",
+			"audiodeath:death-sadtrombone",
+			"audiodeath:death-scatman",
+			"audiodeath:death-shutdown",
+			"audiodeath:death-slapstick",
+			"audiodeath:death-slowclap",
+			"audiodeath:death-smart",
+			"audiodeath:death-smbthree",
+			"audiodeath:death-sms",
+			"audiodeath:death-smstoobad",
+			"audiodeath:death-wasted"
+		]
+	}
+}

@@ -1,0 +1,7 @@
+champions.affix.plagued=Corona-infected
+champions.plague=Corona
+champions.general.affix.plagued=Corona
+champions.general.affix.plagued.tooltip=Settings for the Corona affix
+champions.general.affix.plagued.duration=Corona Duration
+champions.general.affix.plagued.duration.tooltip=The duration (in ticks) of the Corona effect
+champions.general.affix.plagued.infectpotion.tooltip=The potion that will be spread through the Corona effect

@@ -1,0 +1,8 @@
+{
+    "packName": "Hardcore Nightmare IV",
+    "icon": {
+        "path": "config/mod-director/hniv.png",
+        "width": 128,
+        "height": 128
+   }
+}

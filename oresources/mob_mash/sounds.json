@@ -1,0 +1,225 @@
+{
+    "entities.mothman.ambient": {
+        "sounds": [
+            { "name": "mob_mash:entities/mothman/ambient1" },
+			{ "name": "mob_mash:entities/mothman/ambient2" },
+			{ "name": "mob_mash:entities/mothman/ambient3" },
+			{ "name": "mob_mash:entities/mothman/ambient4" },
+			{ "name": "mob_mash:entities/mothman/ambient5" },
+			{ "name": "mob_mash:entities/mothman/ambient6" },
+			{ "name": "mob_mash:entities/mothman/ambient7" },
+			{ "name": "mob_mash:entities/mothman/ambient8" },
+			{ "name": "mob_mash:entities/mothman/ambient9" },
+			{ "name": "mob_mash:entities/mothman/ambient10" },
+			{ "name": "mob_mash:entities/mothman/ambient11" },
+			{ "name": "mob_mash:entities/mothman/ambient12" },
+			{ "name": "mob_mash:entities/mothman/ambient13" },
+			{ "name": "mob_mash:entities/mothman/ambient14" },
+			{ "name": "mob_mash:entities/mothman/ambient15" }
+        ]
+    },
+    "entities.mothman.hurt": {
+        "sounds": [
+            { "name": "mob_mash:entities/mothman/hurt1" },
+			{ "name": "mob_mash:entities/mothman/hurt2" },
+			{ "name": "mob_mash:entities/mothman/hurt3" },
+			{ "name": "mob_mash:entities/mothman/hurt4" },
+			{ "name": "mob_mash:entities/mothman/hurt5" },
+			{ "name": "mob_mash:entities/mothman/hurt6" },
+			{ "name": "mob_mash:entities/mothman/hurt7" },
+			{ "name": "mob_mash:entities/mothman/hurt8" }
+        ]
+    },
+	"entities.mothman.death": {
+        "sounds": [
+            { "name": "mob_mash:entities/mothman/death1" },
+			{ "name": "mob_mash:entities/mothman/death2" },
+			{ "name": "mob_mash:entities/mothman/death3" },
+			{ "name": "mob_mash:entities/mothman/death4" },
+			{ "name": "mob_mash:entities/mothman/death5" },
+			{ "name": "mob_mash:entities/mothman/death6" },
+			{ "name": "mob_mash:entities/mothman/death7" },
+			{ "name": "mob_mash:entities/mothman/death8" },
+			{ "name": "mob_mash:entities/mothman/death9" },
+			{ "name": "mob_mash:entities/mothman/death10" },
+			{ "name": "mob_mash:entities/mothman/death11" }
+        ]
+    },
+    "entities.reptomaniac.ambient": {
+        "sounds": [
+            { "name": "mob_mash:entities/reptomaniac/ambient1" },
+			{ "name": "mob_mash:entities/reptomaniac/ambient2" },
+			{ "name": "mob_mash:entities/reptomaniac/ambient3" }
+        ]
+    },
+    "entities.reptomaniac.hurt": {
+        "sounds": [
+            { "name": "mob_mash:entities/reptomaniac/hurt1" },
+			{ "name": "mob_mash:entities/reptomaniac/hurt2" }
+        ]
+    },
+	"entities.reptomaniac.death": {
+        "sounds": [
+            { "name": "mob_mash:entities/reptomaniac/death1" },
+			{ "name": "mob_mash:entities/reptomaniac/death2" },
+			{ "name": "mob_mash:entities/reptomaniac/death3" },
+			{ "name": "mob_mash:entities/reptomaniac/death4" }
+        ]
+    },
+    "entities.reptomaniac.kill": {
+        "sounds": [
+            { "name": "mob_mash:entities/reptomaniac/kill1" },
+			{ "name": "mob_mash:entities/reptomaniac/kill2" },
+			{ "name": "mob_mash:entities/reptomaniac/kill3" },
+			{ "name": "mob_mash:entities/reptomaniac/kill4" },
+			{ "name": "mob_mash:entities/reptomaniac/kill5" },
+			{ "name": "mob_mash:entities/reptomaniac/kill6" }
+        ]
+    },
+    "entities.crocoduck.ambient": {
+        "sounds": [
+            { "name": "mob_mash:entities/crocoduck/ambient1" },
+			{ "name": "mob_mash:entities/crocoduck/ambient2" },
+			{ "name": "mob_mash:entities/crocoduck/ambient3" },
+			{ "name": "mob_mash:entities/crocoduck/ambient4" },
+			{ "name": "mob_mash:entities/crocoduck/ambient5" },
+			{ "name": "mob_mash:entities/crocoduck/ambient6" },
+			{ "name": "mob_mash:entities/crocoduck/ambient7" },
+			{ "name": "mob_mash:entities/crocoduck/ambient8" },
+			{ "name": "mob_mash:entities/crocoduck/ambient9" }
+        ]
+    },
+    "entities.crocoduck.baby": {
+        "sounds": [
+            { "name": "mob_mash:entities/crocoduck/baby1" },
+			{ "name": "mob_mash:entities/crocoduck/baby2" },
+			{ "name": "mob_mash:entities/crocoduck/baby3" },
+			{ "name": "mob_mash:entities/crocoduck/baby4" },
+			{ "name": "mob_mash:entities/crocoduck/baby5" },
+			{ "name": "mob_mash:entities/crocoduck/baby6" },
+			{ "name": "mob_mash:entities/crocoduck/baby7" },
+			{ "name": "mob_mash:entities/crocoduck/baby8" }
+        ]
+    },
+    "entities.crocoduck.bite": {
+        "sounds": [
+            { "name": "mob_mash:entities/crocoduck/bite1" },
+			{ "name": "mob_mash:entities/crocoduck/bite2" },
+			{ "name": "mob_mash:entities/crocoduck/bite3" },
+			{ "name": "mob_mash:entities/crocoduck/bite4" },
+			{ "name": "mob_mash:entities/crocoduck/bite5" },
+			{ "name": "mob_mash:entities/crocoduck/bite6" },
+			{ "name": "mob_mash:entities/crocoduck/bite7" },
+			{ "name": "mob_mash:entities/crocoduck/bite8" },
+			{ "name": "mob_mash:entities/crocoduck/bite9" }
+        ]
+    },
+    "entities.crocoduck.death": {
+        "sounds": [
+            { "name": "mob_mash:entities/crocoduck/death1" },
+			{ "name": "mob_mash:entities/crocoduck/death2" },
+			{ "name": "mob_mash:entities/crocoduck/death3" },
+			{ "name": "mob_mash:entities/crocoduck/death4" },
+			{ "name": "mob_mash:entities/crocoduck/death5" },
+			{ "name": "mob_mash:entities/crocoduck/death6" },
+			{ "name": "mob_mash:entities/crocoduck/death7" },
+			{ "name": "mob_mash:entities/crocoduck/death8" },
+			{ "name": "mob_mash:entities/crocoduck/death9" }
+        ]
+    },
+    "entities.crocoduck.hurt": {
+        "sounds": [
+            { "name": "mob_mash:entities/crocoduck/hurt1" },
+			{ "name": "mob_mash:entities/crocoduck/hurt2" },
+			{ "name": "mob_mash:entities/crocoduck/hurt3" },
+			{ "name": "mob_mash:entities/crocoduck/hurt4" },
+			{ "name": "mob_mash:entities/crocoduck/hurt5" },
+			{ "name": "mob_mash:entities/crocoduck/hurt6" },
+			{ "name": "mob_mash:entities/crocoduck/hurt7" },
+			{ "name": "mob_mash:entities/crocoduck/hurt8" },
+			{ "name": "mob_mash:entities/crocoduck/hurt9" }
+        ]
+    },
+    "entities.crocoduck.water": {
+        "sounds": [
+            { "name": "mob_mash:entities/crocoduck/water1" },
+			{ "name": "mob_mash:entities/crocoduck/water2" },
+			{ "name": "mob_mash:entities/crocoduck/water3" }
+        ]
+    },
+    "entities.meme.scream": {
+    	"sounds": [
+    		{ "name": "mob_mash:entities/meme/scream1" },
+            { "name": "mob_mash:entities/meme/scream2" },
+            { "name": "mob_mash:entities/meme/scream3" },
+            { "name": "mob_mash:entities/meme/scream4" },
+            { "name": "mob_mash:entities/meme/scream5" },
+            { "name": "mob_mash:entities/meme/scream6" },
+            { "name": "mob_mash:entities/meme/scream7" },
+            { "name": "mob_mash:entities/meme/scream8" },
+            { "name": "mob_mash:entities/meme/scream9" },
+            { "name": "mob_mash:entities/meme/scream10" },
+            { "name": "mob_mash:entities/meme/scream11" },
+            { "name": "mob_mash:entities/meme/scream12" },
+            { "name": "mob_mash:entities/meme/scream13" },
+            { "name": "mob_mash:entities/meme/scream14" },
+            { "name": "mob_mash:entities/meme/scream15" },
+            { "name": "mob_mash:entities/meme/scream16" },
+            { "name": "mob_mash:entities/meme/scream17" },
+            { "name": "mob_mash:entities/meme/scream18" },
+            { "name": "mob_mash:entities/meme/scream19" },
+            { "name": "mob_mash:entities/meme/scream20" },
+            { "name": "mob_mash:entities/meme/scream21" },
+            { "name": "mob_mash:entities/meme/scream22" },
+            { "name": "mob_mash:entities/meme/scream23" },
+            { "name": "mob_mash:entities/meme/scream24" },
+            { "name": "mob_mash:entities/meme/scream25" },
+            { "name": "mob_mash:entities/meme/scream26" },
+            { "name": "mob_mash:entities/meme/scream27" },
+            { "name": "mob_mash:entities/meme/scream28" },
+            { "name": "mob_mash:entities/meme/scream29" },
+            { "name": "mob_mash:entities/meme/scream30" },
+            { "name": "mob_mash:entities/meme/scream31" },
+            { "name": "mob_mash:entities/meme/scream32" },
+            { "name": "mob_mash:entities/meme/scream33" }
+    	]
+    },
+     "entities.pirate.arrg": {
+    	"sounds": [
+    		{ "name": "mob_mash:entities/pirate/arrg1" },
+            { "name": "mob_mash:entities/pirate/arrg2" },
+            { "name": "mob_mash:entities/pirate/arrg3" },
+            { "name": "mob_mash:entities/pirate/arrg4" },
+            { "name": "mob_mash:entities/pirate/arrg5" },
+            { "name": "mob_mash:entities/pirate/arrg6" },
+            { "name": "mob_mash:entities/pirate/arrg7" },
+            { "name": "mob_mash:entities/pirate/arrg8" },
+            { "name": "mob_mash:entities/pirate/arrg9" },
+            { "name": "mob_mash:entities/pirate/arrg10" },
+            { "name": "mob_mash:entities/pirate/arrg11" },
+            { "name": "mob_mash:entities/pirate/arrg12" },
+            { "name": "mob_mash:entities/pirate/arrg13" },
+            { "name": "mob_mash:entities/pirate/arrg14" }
+    	]
+    },
+    "entities.human.male": {
+    	"sounds": [
+    		{ "name": "mob_mash:entities/human/male1" },
+			{ "name": "mob_mash:entities/human/male2" },
+			{ "name": "mob_mash:entities/human/male3" },
+			{ "name": "mob_mash:entities/human/male4" },
+			{ "name": "mob_mash:entities/human/male5" },
+			{ "name": "mob_mash:entities/human/male6" }
+    	]
+    },
+    "entities.human.female": {
+    	"sounds": [
+    		{ "name": "mob_mash:entities/human/female1" },
+			{ "name": "mob_mash:entities/human/female2" },
+			{ "name": "mob_mash:entities/human/female3" },
+			{ "name": "mob_mash:entities/human/female4" },
+			{ "name": "mob_mash:entities/human/female5" },
+			{ "name": "mob_mash:entities/human/female6" }
+    	]
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"inventory": {
+		"0:0": "tinkersurvival:crude_knife",
+		"0:1": "tinkersurvival:crude_hatchet",
+		"0:2": "tinkersurvival:crude_saw",
+		"0:3": "improvedbackpacks:backpack,1,0,{Items:[{Slot:0b,id:\"tconstruct:book\",Count:1b,Damage:0s},{Slot:1b,id:\"conarm:book\",Count:1b,Damage:0s},{Slot:2b,id:\"cuisine:manual\",Count:1b,Damage:0s},{Slot:3b,id:\"geolosys:field_manual\",Count:1b,Damage:0s},{Slot:4b,id:\"magneticraft:guide_book\",Count:1b,Damage:0s},{Slot:5b,id:\"golems:info_book\",Count:1b,Damage:0s},{Slot:6b,id:\"betterwithmods:manual\",Count:1b,Damage:0s},{Slot:7b,id:\"animania:animania_manual\",Count:1b,Damage:0s},{Slot:8b,id:\"rustic:book\",Count:1b,Damage:0s},{Slot:9b,id:\"fossil:dinopedia\",Count:1b,Damage:0s},{Slot:10b,id:\"solcarrot:food_book\",Count:1b,Damage:0s}]}",
+		"0:4": "enchiridion:book,1,0,{identifier:\"First_Steps\"}",
+		"0:6": "realistictorches:torch_lit,4",
+		"0:7": "minecraft:apple,8",
+		"0:8": "toughasnails:canteen",
+		"0:9": "antiqueatlas:empty_antique_atlas",
+		"0:10": "realistictorches:matchbox"
+	}
+}
