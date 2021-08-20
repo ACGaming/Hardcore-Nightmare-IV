@@ -32,6 +32,10 @@ toughasnails:warming
 toughasnails:cooling
 fossil:archeology
 fossil:paleontology
+futuremc:loyalty
+futuremc:channeling
+futuremc:riptide
+futuremc:impaling
 gravestone-extended:gs_vampiric_touch
 gravestone-extended:gs_poisoned_blade
 gravestone-extended:gs_withered_blade

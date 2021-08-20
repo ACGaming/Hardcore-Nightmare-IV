@@ -191,9 +191,9 @@ mobultion:hypnotize_type
 mobultion:long_hypnotize_type
 mobultion:strong_hypnotize_type
 mobultion:wither_type
-cuisine:cuisine.hot
 cuisine:cuisine.dispersal
 cuisine:cuisine.toughness
+cuisine:cuisine.hot
 cuisine:cuisine.cold_blood
 apotheosis:resistance
 apotheosis:long_resistance

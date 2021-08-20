@@ -421,7 +421,6 @@ fossil:fossil.toyball
 fossil:fossil.toytetheredlog
 fossil:fossil.toyscratchingpost
 ichunutil:entity_block
-grapplemod:grapplemod
 gravestone-extended:gszombiedog
 gravestone-extended:gszombiecat
 gravestone-extended:gsskeletondog
@@ -449,6 +448,8 @@ gravestone-extended:gsswampthing
 gravestone-extended:gsraven
 gravestone-extended:gsdamnedwarrior
 gravestone-extended:spawner_helper
+hatchery:roosterentity
+hatchery:thrownegg
 instrumentalmobs:french_horn_creeper
 instrumentalmobs:tuba_enderman
 instrumentalmobs:drum_zombie
@@ -464,6 +465,14 @@ mystgears:turret
 nyx:cauldron_tracker
 nyx:falling_star
 nyx:falling_meteor
+raiders:raider
+raiders:brute
+raiders:witch
+raiders:tweaker
+raiders:pyromaniac
+raiders:ranger
+raiders:droppod
+raiders:signaltransmitter
 rustic:tomato
 rustic:chair
 sophisticatedwolves:textures/entity/brown/wolf.png
@@ -530,6 +539,13 @@ golems:golem_wooden
 golems:golem_wool
 eyesinthedarkness:eyes
 farmingforblockheads:merchant
+futuremc:trident
+futuremc:panda
+futuremc:bee
+futuremc:cod
+futuremc:pufferfish
+futuremc:salmon
+futuremc:tropical_fish
 harvestersnight:harvester
 mobultion:magma_spider
 mobultion:speedy_spider
@@ -585,6 +601,7 @@ nightmares:shadow
 nightmares:spider
 rewired:rail_rider
 rewired:cyberskeleton
+snowrealmagic:snow
 spackenmobs:smava_creeper
 spackenmobs:marcell_davis
 spackenmobs:islamist
@@ -600,8 +617,9 @@ spackenmobs:friedrich
 totaltinkers:javelin
 totaltinkers:explosive_arrow
 totemdefender:totem_projectile
+waterworks:firework_rocket_rain
+waterworks:firework_rocket_anti_rain
 cuisine:boat
-snowrealmagic:snow
 enderzoo:enderminy
 enderzoo:concussioncreeper
 enderzoo:fallenknight

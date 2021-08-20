@@ -1,0 +1,22 @@
+{
+  "modCanAutomaticallyReplaceConfig": true,
+  "configVersion": 0,
+  "loot": [
+    {
+      "itemID": "futuremc:trident",
+      "metaID": 0,
+      "weight": 1,
+      "minQty": 1,
+      "maxQty": 1,
+      "field_76292_a": 1
+    },
+    {
+      "itemID": "futuremc:blue_ice",
+      "metaID": 0,
+      "weight": 1,
+      "minQty": 1,
+      "maxQty": 1,
+      "field_76292_a": 1
+    }
+  ]
+}
