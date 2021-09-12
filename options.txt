@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["Default+ BACKPORT 1.12 v1.zip","Minecraftic Geolosys-1.3.zip","Realistic Sky 1.12 [ACG Edition].zip","Gloomy Pack.zip","Consistency-1.6.1.zip","Tinker\u0027s Tables.zip","[1.12]ACGaming Sound Pack 2018.zip","Tissou\u0027s Zombie Pack 1.12.2.zip"]
+resourcePacks:["Default+ BACKPORT 1.12 v1.zip","Minecraftic Geolosys-1.3.zip","Realistic Sky 1.12 [ACG Edition].zip","Gloomy Pack.zip","Consistency-1.6.1.zip","Tinker\u0027s Tables.zip","[1.12]ACGaming Sound Pack 2018.zip","Tissou\u0027s Zombie Pack 1.12.2 v2.0.zip"]
 incompatibleResourcePacks:["Gloomy Pack.zip"]
 lastServer:localhost
 lang:en_us
@@ -96,7 +96,7 @@ key_Toggle Freeze Effect:0
 key_Enable/Disable:0
 key_Kill Particles:0
 key_Blacklist Block:0
-key_key.hooked.fire:46
+key_key.hooked.fire:33
 key_key.togglePotionParticles:0
 key_key.toastcontrol.clear:0
 key_walljump.key.walljump:42
@@ -123,19 +123,19 @@ key_key.jei.toggleBookmarkOverlay:0
 key_atlasextras.keybind.togglehud:39
 key_atlasextras.keybind.openatlas:50
 key_key.carry.desc:54
-key_cyberware.keybinds.menu:19
+key_cyberware.keybinds.menu:46
 key_dsurround.cfg.keybind.AnimaniaBadges:0
 key_Open Backpack:78
 key_invtweaks.key.sort:19
-key_key.music_player_gui:82
-key_key.music_player_toggle:80
-key_key.music_player_next:81
-key_key.music_player_previous:79
+key_key.music_player_gui:0
+key_key.music_player_toggle:0
+key_key.music_player_next:0
+key_key.music_player_previous:0
 key_key.nutrition:49
 key_key.arms.desc:0
 key_key.mod.desc:0
 key_key.head.desc:0
-soundCategory_master:0.20198676
+soundCategory_master:0.15231788
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.5

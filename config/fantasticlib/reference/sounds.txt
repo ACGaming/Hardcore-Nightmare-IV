@@ -696,6 +696,8 @@ animania:kidhurt2
 animania:hitch
 animania:unhitch
 betterinvisibility:discovered
+timecraft:crafting
+timecraft:finish
 epicsiegemod:cena_creeper.start
 epicsiegemod:cena_creeper.end
 instrumentalmobs:xylophone.sound
@@ -1192,18 +1194,6 @@ nyx:falling_meteor
 nyx:falling_meteor_impact
 nyx:hammer_start
 nyx:hammer_end
-raiders:mob.raiders.say
-raiders:mob.raiders.hurt
-raiders:mob.raiders.laugh
-raiders:mob.raiders.brutelaugh
-raiders:mob.raiders.scream
-raiders:mob.raiders.screamerscream
-raiders:mob.raiders.screamercry
-raiders:ambient.raiddayboom
-raiders:ambient.sonicboom
-raiders:ambient.rocketambient
-raiders:item.coms_beep
-raiders:item.serum_anger
 sophisticatedwolves:player.whistle.short
 sophisticatedwolves:player.whistle.long
 spackenmobs:entities.smava_creeper.fuse

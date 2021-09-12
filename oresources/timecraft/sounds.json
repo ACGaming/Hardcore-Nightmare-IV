@@ -1,0 +1,43 @@
+{
+	"crafting": {
+		"subtitle": "crafting",
+		"replace": "true",
+		"sounds": [{
+				"name": "timecraft:crafting",
+				"steam": true
+			},
+			{
+				"name": "timecraft:crafthammer1",
+				"steam": true
+			},
+			{
+				"name": "timecraft:crafthammer2",
+				"steam": true
+			},
+			{
+				"name": "timecraft:craftsand1",
+				"steam": true
+			},
+			{
+				"name": "timecraft:craftsand2",
+				"steam": true
+			},
+			{
+				"name": "timecraft:craftsaw1",
+				"steam": true
+			},
+			{
+				"name": "timecraft:craftsaw2",
+				"steam": true
+			}
+		]
+	},
+	"finish": {
+		"subtitle": "finish",
+		"replace": "true",
+		"sounds": [{
+			"name": "timecraft:finish",
+			"steam": true
+		}]
+	}
+}
