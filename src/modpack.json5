@@ -1,0 +1,3656 @@
+{
+  "id": "hardcore-nightmare-iv",
+  "type": "modpack",
+  "versions": [
+    {
+      "version": "1.20",
+      "mcversion": [
+        "1.12.2"
+      ],
+      "files": [
+        {
+          "id": "overrides",
+          "installer": "internal.override",
+          "link": "file://overrides",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "id": "227873",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:227873:2721268",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "server",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "482566",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:482566:3310627",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "268104",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:268104:2655432",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "408853",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:408853:3060450",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "235729",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:235729:3152820",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "267006",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:267006:2942595",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "354143",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:354143:2939052",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "336272",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:336272:3225395",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "279311",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:279311:2549462",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "312822",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:312822:3447519",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "server",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "279312",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:279312:3074534",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "server",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "284904",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:284904:2568865",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "265917",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:265917:2951731",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "229060",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:229060:2801262",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "363102",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:363102:3234684",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "required",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "250290",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:250290:2916357",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "246939",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:246939:3073795",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "298323",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:298323:2849447",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "74924",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:74924:2713386",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "259230",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:259230:3447723",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "297209",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:297209:2607310",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "229073",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:229073:2960397",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "272639",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:272639:2465868",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "229076",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:229076:2801267",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "313970",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:313970:2906487",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "229090",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:229090:2682824",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "377652",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:377652:3182552",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "255902",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:255902:2661187",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "241386",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:241386:2723494",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "272671",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:272671:2843439",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "309538",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:309538:3037124",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "78320",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:78320:2627678",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "292785",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:292785:2915154",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "280510",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:280510:2810157",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "270457",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:270457:2918455",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "required",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "282745",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:282745:2519727",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "270470",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:270470:2530136",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "239197",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:239197:3435328",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "300639",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:300639:2980414",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "server",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "253735",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:253735:2514705",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "required",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "392244",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:392244:3355794",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "258205",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:258205:3204340",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "server",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "299540",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:299540:2706111",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "250398",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:250398:3025548",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "244830",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:244830:3112419",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "244844",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:244844:3137504",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "299602",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:299602:3096365",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "268326",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:268326:2899407",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "285082",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:285082:2582067",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "291786",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:291786:2701203",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "280620",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:280620:2826084",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "358821",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:358821:3329784",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "231484",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:231484:2862651",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "409087",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:409087:3328601",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "386747",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:386747:3283263",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "300742",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:300742:3006392",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "278406",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:278406:2481852",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "241545",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:241545:2668458",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "296289",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:296289:2919737",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "311927",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:311927:2664662",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "284005",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:284005:2539936",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "224808",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:224808:2935936",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "238222",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:238222:3043174",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "375616",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:375616:3269880",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "313064",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:313064:2741095",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "271740",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:271740:2707353",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "327592",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:327592:2853556",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "257229",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:257229:2697165",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "320903",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:320903:3243998",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "227083",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:227083:2518667",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "461660",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:461660:3251426",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "278476",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:278476:2604749",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "441560",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:441560:3191584",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "282947",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:282947:2721067",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "256141",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:256141:3107974",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "74072",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:74072:2902483",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "278494",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:278494:3327893",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "274035",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:274035:2461980",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "308663",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:308663:3443407",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "252818",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:252818:3446235",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "62929",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:62929:2634989",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "395795",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:395795:3105312",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "248353",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:248353:2988576",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "232717",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:232717:2830763",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "295271",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:295271:2649128",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "required",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "307560",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:307560:3108742",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "351130",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:351130:2825342",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "460609",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:460609:3457082",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "250617",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:250617:3158763",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "419286",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:419286:3321174",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "268495",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:268495:3227897",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "232758",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:232758:3159497",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "296430",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:296430:2849124",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "required",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "271856",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:271856:2827665",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "295319",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:295319:2865090",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "220495",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:220495:2713186",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "238373",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:238373:2634599",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "335557",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:335557:2808158",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "353434",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:353434:2918988",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "229449",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:229449:2920048",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "407056",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:407056:3093214",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "252910",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:252910:3041340",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "240630",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:240630:2728585",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "248451",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:248451:2878496",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "248453",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:248453:2785465",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "242872",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:242872:2905184",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "73096",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:73096:2563711",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "264111",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:264111:2615892",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "222789",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:222789:3025806",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "223908",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:223908:3168678",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "278645",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:278645:2593792",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "244023",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:244023:2463886",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "305460",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:305460:2631908",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "302128",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:302128:2933507",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "261924",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:261924:2733508",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "228414",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:228414:2548676",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "required",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "297680",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:297680:2810589",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "258587",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:258587:2959712",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "294335",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:294335:2624990",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "264183",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:264183:2643145",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "275356",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:275356:2468740",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "449616",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:449616:3213171",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "316696",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:316696:2685974",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "274259",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:274259:3271178",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "277616",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:277616:2959847",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "225124",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:225124:2447369",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "225125",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:225125:2659126",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "287683",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:287683:3174535",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "241895",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:241895:2733525",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "268704",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:268704:2661859",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "275408",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:275408:2578045",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "307806",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:307806:2820815",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "284350",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:284350:3063275",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "277663",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:277663:2744735",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "411705",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:411705:3073878",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "310059",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:310059:3194413",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "246391",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:246391:2710969",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "76612",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:76612:2711602",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "228525",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:228525:2836960",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "293320",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:293320:3220521",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "307843",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:307843:2642103",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "291090",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:291090:2598727",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "267633",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:267633:2853102",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "server",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "336897",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:336897:2894899",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "317915",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:317915:3206298",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "221857",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:221857:2904825",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "288885",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:288885:2838777",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "345857",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:345857:2803761",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "363734",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:363734:2980748",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "349214",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:349214:3161738",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "306770",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:306770:3162874",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "255389",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:255389:3437859",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "285550",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:285550:2962840",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "254284",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:254284:3223298",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "367103",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:367103:2980239",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "250957",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:250957:2630860",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "282240",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:282240:2926274",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "433035",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:433035:3294090",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "59968",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:59968:3320102",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "253211",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:253211:3308160",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "required",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "226406",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:226406:2857869",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "283377",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:283377:3366534",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "269973",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:269973:3445087",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "server",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "285612",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:285612:3133651",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "315773",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:315773:3341793",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "319125",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:319125:2778295",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "342584",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:342584:3454171",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "274451",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:274451:2874416",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "324717",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:324717:2735905",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "267769",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:267769:2613657",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "223094",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:223094:2923460",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "248787",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:248787:2987247",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "226447",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:226447:2477566",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "319175",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:319175:3356013",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "364982",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:364982:2902440",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "299080",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:299080:2632834",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "494559",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:494559:3434849",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "285690",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:285690:3283799",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "281229",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:281229:2807969",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "438726",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:438726:3235312",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "252188",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:252188:2801268",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "277890",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:277890:2555574",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "server",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "293536",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:293536:2691117",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "254441",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:254441:2632107",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "258911",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:258911:2866063",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "228756",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:228756:2747935",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "327056",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:327056:2922328",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "304719",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:304719:2812571",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "294667",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:294667:2721198",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "60098",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:60098:3320173",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "257814",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:257814:3437866",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "257815",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:257815:3047154",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "220954",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:220954:3368737",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "285742",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:285742:2949817",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "243298",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:243298:3116493",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "400796",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:400796:3281615",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "262292",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:262292:2463637",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "required",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "413088",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:413088:3080511",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "required",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "256717",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:256717:2666198",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "413102",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:413102:3084097",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "453315",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:453315:3227877",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "251138",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:251138:2715498",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "222097",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:222097:2805035",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "261199",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:261199:3213136",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "237746",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:237746:2596867",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "server",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "237749",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:237749:2902920",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "293602",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:293602:2925154",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "303657",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:303657:2704824",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "server",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "237754",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:237754:2663393",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "237758",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:237758:2688688",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "292491",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:292491:2624871",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "server",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "271272",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:271272:3015109",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "233300",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:233300:2887694",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "238891",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:238891:3098835",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "267939",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:267939:2997129",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "266824",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:266824:2810222",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "290282",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:290282:2542038",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "301455",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:301455:3162928",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "303694",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:303694:2932722",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "client",
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "244509",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:244509:2549105",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "241160",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:241160:2612052",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "253449",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:253449:2568751",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "required",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "246760",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:246760:3289033",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "server",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "311546",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:311546:2764626",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "311552",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:311552:2717195",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "318255",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:318255:2919497",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "included",
+            "client"
+          ]
+        },
+        {
+          "id": "314916",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:314916:2676658",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "client",
+            "required"
+          ]
+        },
+        {
+          "id": "283644",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:283644:2694382",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "included",
+            "client",
+            "server"
+          ]
+        },
+        {
+          "id": "407632",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:407632:3213139",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "227795",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:227795:2823030",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "276951",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:276951:2880613",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "304879",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:304879:2872906",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "included",
+            "required"
+          ]
+        },
+        {
+          "id": "319404",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:319404:2708193",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "included",
+            "required",
+            "server",
+            "client"
+          ]
+        },
+        {
+          "id": "523815",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:523815:3453101",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "407657",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:407657:3213137",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "224472",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:224472:2969118",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "225605",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:225605:2489549",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "required",
+            "client",
+            "included"
+          ]
+        },
+        {
+          "id": "225606",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:225606:2489553",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "307152",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:307152:3177947",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "included",
+            "server"
+          ]
+        },
+        {
+          "id": "303811",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:303811:2622175",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "included",
+            "required",
+            "client"
+          ]
+        },
+        {
+          "id": "forge",
+          "versions": "[1.12.2-14.23.5.2855]",
+          "type": "modloader",
+          "options": [
+            "included",
+            "required",
+            "server",
+            "client"
+          ]
+        }
+      ]
+    }
+  ],
+  "repositories": [
+    {
+      "id": "curseforge",
+      "type": "curseforge",
+      "url": "https://cursemaven.com/"
+    }
+  ],
+  "meta": {
+    "name": "Hardcore Nightmare IV",
+    "contributors": [
+      {
+        "name": "ACGaming",
+        "roles": [
+          "owner"
+        ]
+      }
+    ]
+  }
+}
