@@ -465,14 +465,6 @@ mystgears:turret
 nyx:cauldron_tracker
 nyx:falling_star
 nyx:falling_meteor
-raiders:raider
-raiders:brute
-raiders:witch
-raiders:tweaker
-raiders:pyromaniac
-raiders:ranger
-raiders:droppod
-raiders:signaltransmitter
 rustic:tomato
 rustic:chair
 sophisticatedwolves:textures/entity/brown/wolf.png

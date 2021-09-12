@@ -392,3 +392,14 @@ recipes.addShaped(<adchimneys:cobblestone_mossy:2> * 4, [[<adchimneys:cobbleston
 recipes.addShaped(<realistictorches:matchbox>, [
 [<ore:paper>, <ore:paper>, <ore:paper>],
 [<ore:slabWood>, <ore:slabWood>, <ore:slabWood>]]);
+
+// Blank Pattern
+recipes.addShaped(<tconstruct:pattern> * 4, [
+[<ore:stickWood>, <ore:plankWood>],
+[<ore:plankWood>, <ore:stickWood>]]);
+
+// Leather Armor Uncrafting
+recipes.addShapeless(<minecraft:leather> * 4, [<minecraft:leather_helmet>, <ore:shears>.transformDamage()]);
+recipes.addShapeless(<minecraft:leather> * 7, [<minecraft:leather_chestplate>, <ore:shears>.transformDamage()]);
+recipes.addShapeless(<minecraft:leather> * 6, [<minecraft:leather_leggings>, <ore:shears>.transformDamage()]);
+recipes.addShapeless(<minecraft:leather> * 3, [<minecraft:leather_boots>, <ore:shears>.transformDamage()]);
