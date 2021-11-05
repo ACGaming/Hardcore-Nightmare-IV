@@ -13,10 +13,10 @@
           "installer": "internal.override",
           "link": "file://overrides",
           "options": [
+            "server",
             "included",
-            "client",
             "required",
-            "server"
+            "client"
           ]
         }
       ],
@@ -30,10 +30,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
+            "included",
             "required",
             "client",
-            "included"
+            "server"
           ]
         },
         {
@@ -45,10 +45,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
             "server",
-            "client"
+            "required",
+            "client",
+            "included"
           ]
         },
         {
@@ -60,10 +60,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
-            "included",
-            "client"
+            "server",
+            "client",
+            "included"
           ]
         },
         {
@@ -75,10 +75,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "included",
-            "required"
+            "required",
+            "client",
+            "server"
           ]
         },
         {
@@ -90,10 +90,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
-            "required",
-            "included"
+            "included",
+            "client",
+            "required"
           ]
         },
         {
@@ -106,24 +106,24 @@
           "type": "mod",
           "options": [
             "included",
-            "client",
+            "server",
             "required",
-            "server"
+            "client"
           ]
         },
         {
           "id": "354143",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:354143:2939052",
+            "artifact": "curse:354143:3511568",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "required",
             "client",
             "server",
-            "included"
+            "included",
+            "required"
           ]
         },
         {
@@ -135,10 +135,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "server",
-            "required"
+            "included",
+            "required",
+            "client"
           ]
         },
         {
@@ -150,8 +150,8 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "client",
+            "required",
             "server",
             "included"
           ]
@@ -165,10 +165,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
+            "required",
             "client",
-            "server",
-            "required"
+            "included",
+            "server"
           ]
         },
         {
@@ -180,10 +180,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "required",
             "server",
-            "client"
+            "required",
+            "client",
+            "included"
           ]
         },
         {
@@ -196,9 +196,9 @@
           "type": "mod",
           "options": [
             "included",
-            "required",
+            "client",
             "server",
-            "client"
+            "required"
           ]
         },
         {
@@ -210,10 +210,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "included",
             "required",
-            "client"
+            "client",
+            "server",
+            "included"
           ]
         },
         {
@@ -226,9 +226,9 @@
           "type": "mod",
           "options": [
             "server",
+            "client",
             "required",
-            "included",
-            "client"
+            "included"
           ]
         },
         {
@@ -242,8 +242,8 @@
           "options": [
             "required",
             "client",
-            "server",
-            "included"
+            "included",
+            "server"
           ]
         },
         {
@@ -270,10 +270,10 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "client",
             "included",
-            "server",
-            "required"
+            "server"
           ]
         },
         {
@@ -286,9 +286,9 @@
           "type": "mod",
           "options": [
             "required",
-            "server",
+            "client",
             "included",
-            "client"
+            "server"
           ]
         },
         {
@@ -301,9 +301,9 @@
           "type": "mod",
           "options": [
             "required",
+            "included",
             "client",
-            "server",
-            "included"
+            "server"
           ]
         },
         {
@@ -316,9 +316,9 @@
           "type": "mod",
           "options": [
             "included",
+            "client",
             "required",
-            "server",
-            "client"
+            "server"
           ]
         },
         {
@@ -331,9 +331,9 @@
           "type": "mod",
           "options": [
             "client",
+            "included",
             "server",
-            "required",
-            "included"
+            "required"
           ]
         },
         {
@@ -345,10 +345,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
-            "server",
-            "required"
+            "required",
+            "included",
+            "server"
           ]
         },
         {
@@ -362,8 +362,8 @@
           "options": [
             "included",
             "server",
-            "client",
-            "required"
+            "required",
+            "client"
           ]
         },
         {
@@ -390,10 +390,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "included",
-            "required"
+            "server",
+            "required",
+            "client"
           ]
         },
         {
@@ -406,9 +406,9 @@
           "type": "mod",
           "options": [
             "included",
+            "server",
             "client",
-            "required",
-            "server"
+            "required"
           ]
         },
         {
@@ -420,10 +420,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
             "included",
-            "required"
+            "required",
+            "client"
           ]
         },
         {
@@ -436,9 +436,9 @@
           "type": "mod",
           "options": [
             "client",
+            "required",
             "server",
-            "included",
-            "required"
+            "included"
           ]
         },
         {
@@ -450,10 +450,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
             "required",
-            "included"
+            "client",
+            "included",
+            "server"
           ]
         },
         {
@@ -465,10 +465,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "client",
+            "included",
             "server",
-            "included"
+            "client",
+            "required"
           ]
         },
         {
@@ -480,8 +480,8 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
+            "server",
             "included",
             "required"
           ]
@@ -497,8 +497,8 @@
           "options": [
             "client",
             "server",
-            "required",
-            "included"
+            "included",
+            "required"
           ]
         },
         {
@@ -510,10 +510,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "included",
             "required",
-            "client"
+            "client",
+            "included",
+            "server"
           ]
         },
         {
@@ -525,10 +525,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
+            "server",
             "required",
-            "server"
+            "included"
           ]
         },
         {
@@ -540,10 +540,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "included",
+            "required",
             "server",
-            "required"
+            "included",
+            "client"
           ]
         },
         {
@@ -555,10 +555,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "required",
-            "included"
+            "client",
+            "included",
+            "server"
           ]
         },
         {
@@ -570,25 +570,25 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "server",
             "client",
-            "included"
+            "included",
+            "server",
+            "required"
           ]
         },
         {
           "id": "239197",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:239197:3507384",
+            "artifact": "curse:239197:3515080",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
             "required",
-            "server",
+            "included",
             "client",
-            "included"
+            "server"
           ]
         },
         {
@@ -600,10 +600,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
+            "server",
             "required",
-            "included",
-            "server"
+            "client",
+            "included"
           ]
         },
         {
@@ -615,10 +615,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
+            "included",
             "client",
-            "included"
+            "server",
+            "required"
           ]
         },
         {
@@ -630,10 +630,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
+            "included",
             "client",
             "server",
-            "included"
+            "required"
           ]
         },
         {
@@ -645,10 +645,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
+            "client",
             "included",
             "server",
-            "client"
+            "required"
           ]
         },
         {
@@ -660,8 +660,8 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "server",
+            "included",
             "client",
             "required"
           ]
@@ -675,10 +675,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "client",
+            "included",
             "server",
-            "included"
+            "client",
+            "required"
           ]
         },
         {
@@ -690,8 +690,8 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
+            "server",
             "required",
             "included"
           ]
@@ -705,10 +705,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
-            "included",
-            "required"
+            "required",
+            "client",
+            "included"
           ]
         },
         {
@@ -720,10 +720,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
             "server",
-            "included"
+            "included",
+            "client",
+            "required"
           ]
         },
         {
@@ -736,9 +736,9 @@
           "type": "mod",
           "options": [
             "server",
-            "included",
             "client",
-            "required"
+            "required",
+            "included"
           ]
         },
         {
@@ -751,9 +751,9 @@
           "type": "mod",
           "options": [
             "required",
+            "included",
             "client",
-            "server",
-            "included"
+            "server"
           ]
         },
         {
@@ -766,9 +766,9 @@
           "type": "mod",
           "options": [
             "client",
+            "server",
             "required",
-            "included",
-            "server"
+            "included"
           ]
         },
         {
@@ -780,10 +780,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "server",
+            "client",
             "required",
-            "client"
+            "included"
           ]
         },
         {
@@ -795,9 +795,9 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "included",
             "client",
+            "server",
             "required"
           ]
         },
@@ -810,10 +810,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
+            "included",
             "required",
-            "included"
+            "client"
           ]
         },
         {
@@ -825,10 +825,10 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
-            "included",
             "required",
-            "client"
+            "included"
           ]
         },
         {
@@ -841,9 +841,9 @@
           "type": "mod",
           "options": [
             "client",
-            "included",
             "server",
-            "required"
+            "required",
+            "included"
           ]
         },
         {
@@ -856,9 +856,9 @@
           "type": "mod",
           "options": [
             "server",
+            "required",
             "included",
-            "client",
-            "required"
+            "client"
           ]
         },
         {
@@ -871,9 +871,9 @@
           "type": "mod",
           "options": [
             "server",
-            "required",
             "included",
-            "client"
+            "client",
+            "required"
           ]
         },
         {
@@ -887,8 +887,8 @@
           "options": [
             "server",
             "included",
-            "client",
-            "required"
+            "required",
+            "client"
           ]
         },
         {
@@ -915,10 +915,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
+            "client",
             "included",
-            "client"
+            "server"
           ]
         },
         {
@@ -930,10 +930,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "server",
             "required",
-            "client"
+            "server",
+            "client",
+            "included"
           ]
         },
         {
@@ -945,8 +945,8 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
+            "server",
             "client",
             "included"
           ]
@@ -962,23 +962,23 @@
           "options": [
             "required",
             "included",
-            "server",
-            "client"
+            "client",
+            "server"
           ]
         },
         {
           "id": "375616",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:375616:3269880",
+            "artifact": "curse:375616:3511064",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "server",
-            "required"
+            "required",
+            "client",
+            "included"
           ]
         },
         {
@@ -990,9 +990,9 @@
           },
           "type": "mod",
           "options": [
+            "included",
             "server",
             "required",
-            "included",
             "client"
           ]
         },
@@ -1005,10 +1005,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "required",
             "server",
-            "client"
+            "client",
+            "required",
+            "included"
           ]
         },
         {
@@ -1020,10 +1020,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
             "client",
-            "server"
+            "required",
+            "server",
+            "included"
           ]
         },
         {
@@ -1035,10 +1035,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "server",
-            "client",
-            "included"
+            "required",
+            "included",
+            "client"
           ]
         },
         {
@@ -1050,10 +1050,10 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "server",
             "included",
-            "client",
-            "required"
+            "client"
           ]
         },
         {
@@ -1066,9 +1066,9 @@
           "type": "mod",
           "options": [
             "included",
+            "client",
             "server",
-            "required",
-            "client"
+            "required"
           ]
         },
         {
@@ -1081,9 +1081,9 @@
           "type": "mod",
           "options": [
             "required",
-            "server",
+            "included",
             "client",
-            "included"
+            "server"
           ]
         },
         {
@@ -1096,9 +1096,9 @@
           "type": "mod",
           "options": [
             "client",
+            "server",
             "required",
-            "included",
-            "server"
+            "included"
           ]
         },
         {
@@ -1110,10 +1110,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
+            "required",
             "server",
-            "client",
-            "required"
+            "included",
+            "client"
           ]
         },
         {
@@ -1125,9 +1125,9 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
             "included",
+            "server",
             "client"
           ]
         },
@@ -1140,10 +1140,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "included",
             "client",
-            "required"
+            "required",
+            "included",
+            "server"
           ]
         },
         {
@@ -1155,10 +1155,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
+            "required",
             "client",
-            "included",
-            "required"
+            "server",
+            "included"
           ]
         },
         {
@@ -1170,10 +1170,10 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "included",
             "client",
-            "required",
-            "server"
+            "required"
           ]
         },
         {
@@ -1185,10 +1185,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
-            "required",
-            "included"
+            "included",
+            "client",
+            "required"
           ]
         },
         {
@@ -1200,9 +1200,9 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "required",
+            "client",
+            "included",
             "server"
           ]
         },
@@ -1215,9 +1215,9 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
             "included",
-            "client",
             "required"
           ]
         },
@@ -1230,10 +1230,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
+            "required",
             "client",
             "server",
-            "required"
+            "included"
           ]
         },
         {
@@ -1245,10 +1245,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
+            "client",
             "server",
-            "client"
+            "included",
+            "required"
           ]
         },
         {
@@ -1262,8 +1262,8 @@
           "options": [
             "client",
             "required",
-            "server",
-            "included"
+            "included",
+            "server"
           ]
         },
         {
@@ -1275,10 +1275,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "required",
-            "included"
+            "server",
+            "included",
+            "client"
           ]
         },
         {
@@ -1290,10 +1290,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "server",
+            "client",
             "included",
-            "client"
+            "server",
+            "required"
           ]
         },
         {
@@ -1305,10 +1305,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
+            "client",
             "required",
-            "included",
-            "client"
+            "server",
+            "included"
           ]
         },
         {
@@ -1321,8 +1321,8 @@
           "type": "mod",
           "options": [
             "required",
-            "client",
             "included",
+            "client",
             "server"
           ]
         },
@@ -1330,14 +1330,14 @@
           "id": "460609",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:460609:3510475",
+            "artifact": "curse:460609:3511637",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "included",
-            "server",
             "required",
+            "server",
+            "included",
             "client"
           ]
         },
@@ -1350,9 +1350,9 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "required",
             "server",
-            "client",
             "included"
           ]
         },
@@ -1365,10 +1365,10 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "client",
-            "server",
             "included",
-            "required"
+            "server"
           ]
         },
         {
@@ -1380,9 +1380,9 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
             "required",
-            "client",
             "included"
           ]
         },
@@ -1396,8 +1396,8 @@
           "type": "mod",
           "options": [
             "client",
-            "included",
             "server",
+            "included",
             "required"
           ]
         },
@@ -1410,9 +1410,9 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
             "included",
+            "required",
+            "client",
             "server"
           ]
         },
@@ -1425,10 +1425,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
             "included",
-            "client"
+            "client",
+            "server"
           ]
         },
         {
@@ -1440,10 +1440,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "server",
+            "client",
             "required",
-            "client"
+            "included"
           ]
         },
         {
@@ -1455,10 +1455,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
+            "included",
             "server",
-            "client",
-            "included"
+            "required",
+            "client"
           ]
         },
         {
@@ -1470,10 +1470,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
-            "included",
-            "required"
+            "server",
+            "required",
+            "included"
           ]
         },
         {
@@ -1485,10 +1485,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
-            "required",
-            "included"
+            "included",
+            "client",
+            "required"
           ]
         },
         {
@@ -1500,10 +1500,10 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "server",
             "client",
-            "included",
-            "required"
+            "included"
           ]
         },
         {
@@ -1515,10 +1515,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
+            "included",
             "required",
-            "included"
+            "server",
+            "client"
           ]
         },
         {
@@ -1530,10 +1530,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
+            "included",
             "required",
-            "included"
+            "client",
+            "server"
           ]
         },
         {
@@ -1545,9 +1545,9 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "included",
+            "server",
+            "client",
             "required"
           ]
         },
@@ -1560,10 +1560,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
             "included",
-            "required"
+            "server",
+            "required",
+            "client"
           ]
         },
         {
@@ -1575,10 +1575,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
             "client",
-            "server"
+            "included",
+            "server",
+            "required"
           ]
         },
         {
@@ -1590,10 +1590,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "included",
             "server",
-            "client"
+            "client",
+            "required"
           ]
         },
         {
@@ -1605,8 +1605,8 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
+            "client",
             "required",
             "included"
           ]
@@ -1620,10 +1620,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "server",
             "required",
-            "client"
+            "client",
+            "included",
+            "server"
           ]
         },
         {
@@ -1636,8 +1636,8 @@
           "type": "mod",
           "options": [
             "required",
-            "included",
             "client",
+            "included",
             "server"
           ]
         },
@@ -1650,10 +1650,10 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "included",
             "client",
-            "server",
-            "required"
+            "server"
           ]
         },
         {
@@ -1665,10 +1665,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "included",
+            "client",
             "required",
-            "client"
+            "server",
+            "included"
           ]
         },
         {
@@ -1681,9 +1681,9 @@
           "type": "mod",
           "options": [
             "server",
+            "included",
             "client",
-            "required",
-            "included"
+            "required"
           ]
         },
         {
@@ -1695,10 +1695,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
+            "server",
             "client",
-            "server"
+            "included",
+            "required"
           ]
         },
         {
@@ -1710,10 +1710,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "included",
             "required",
-            "client"
+            "client",
+            "server",
+            "included"
           ]
         },
         {
@@ -1725,10 +1725,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
             "required",
-            "included"
+            "included",
+            "client"
           ]
         },
         {
@@ -1742,8 +1742,8 @@
           "options": [
             "required",
             "server",
-            "client",
-            "included"
+            "included",
+            "client"
           ]
         },
         {
@@ -1755,10 +1755,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "required",
-            "client",
-            "server"
+            "server",
+            "included",
+            "client"
           ]
         },
         {
@@ -1770,9 +1770,9 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "required",
+            "client",
+            "included",
             "server"
           ]
         },
@@ -1785,8 +1785,8 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
+            "client",
             "included",
             "required"
           ]
@@ -1801,9 +1801,9 @@
           "type": "mod",
           "options": [
             "included",
+            "server",
             "client",
-            "required",
-            "server"
+            "required"
           ]
         },
         {
@@ -1815,10 +1815,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "required",
-            "included"
+            "server",
+            "included",
+            "client"
           ]
         },
         {
@@ -1830,10 +1830,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "server",
             "client",
-            "required"
+            "server",
+            "required",
+            "included"
           ]
         },
         {
@@ -1845,10 +1845,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
             "included",
-            "server"
+            "server",
+            "required",
+            "client"
           ]
         },
         {
@@ -1860,10 +1860,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
+            "included",
             "client",
-            "included"
+            "required",
+            "server"
           ]
         },
         {
@@ -1875,10 +1875,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
+            "server",
             "required",
-            "server"
+            "included"
           ]
         },
         {
@@ -1890,10 +1890,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "included",
+            "required",
             "server",
-            "required"
+            "client",
+            "included"
           ]
         },
         {
@@ -1907,8 +1907,8 @@
           "options": [
             "required",
             "included",
-            "server",
-            "client"
+            "client",
+            "server"
           ]
         },
         {
@@ -1920,10 +1920,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
             "required",
-            "included"
+            "included",
+            "server"
           ]
         },
         {
@@ -1935,10 +1935,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "included",
+            "required",
             "server",
-            "required"
+            "client"
           ]
         },
         {
@@ -1951,9 +1951,9 @@
           "type": "mod",
           "options": [
             "server",
-            "included",
+            "client",
             "required",
-            "client"
+            "included"
           ]
         },
         {
@@ -1965,10 +1965,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "server",
-            "included",
-            "client"
+            "client",
+            "required",
+            "included"
           ]
         },
         {
@@ -1995,10 +1995,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "included",
-            "server",
-            "client"
+            "required",
+            "client",
+            "server"
           ]
         },
         {
@@ -2010,10 +2010,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "included",
+            "client",
             "required",
-            "client"
+            "server",
+            "included"
           ]
         },
         {
@@ -2025,10 +2025,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "server",
             "included",
-            "client"
+            "server",
+            "client",
+            "required"
           ]
         },
         {
@@ -2040,8 +2040,8 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "included",
+            "required",
             "client",
             "server"
           ]
@@ -2055,10 +2055,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
             "server",
-            "required"
+            "required",
+            "included"
           ]
         },
         {
@@ -2070,10 +2070,10 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "required",
             "included",
-            "client",
-            "server"
+            "client"
           ]
         },
         {
@@ -2085,10 +2085,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
-            "included",
-            "client"
+            "client",
+            "server",
+            "included"
           ]
         },
         {
@@ -2101,9 +2101,9 @@
           "type": "mod",
           "options": [
             "server",
-            "client",
             "required",
-            "included"
+            "included",
+            "client"
           ]
         },
         {
@@ -2117,8 +2117,8 @@
           "options": [
             "required",
             "server",
-            "client",
-            "included"
+            "included",
+            "client"
           ]
         },
         {
@@ -2130,8 +2130,8 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
+            "server",
             "client",
             "included"
           ]
@@ -2145,10 +2145,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
             "required",
-            "included"
+            "client",
+            "included",
+            "server"
           ]
         },
         {
@@ -2160,10 +2160,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
             "client",
-            "server"
+            "server",
+            "required",
+            "included"
           ]
         },
         {
@@ -2175,8 +2175,8 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
+            "client",
             "required",
             "included"
           ]
@@ -2190,10 +2190,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "required",
-            "client",
-            "server"
+            "server",
+            "included",
+            "client"
           ]
         },
         {
@@ -2205,9 +2205,9 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
             "included",
-            "client",
             "required"
           ]
         },
@@ -2221,9 +2221,9 @@
           "type": "mod",
           "options": [
             "client",
+            "required",
             "included",
-            "server",
-            "required"
+            "server"
           ]
         },
         {
@@ -2236,9 +2236,9 @@
           "type": "mod",
           "options": [
             "client",
-            "included",
+            "required",
             "server",
-            "required"
+            "included"
           ]
         },
         {
@@ -2252,8 +2252,8 @@
           "options": [
             "required",
             "included",
-            "client",
-            "server"
+            "server",
+            "client"
           ]
         },
         {
@@ -2265,10 +2265,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
+            "required",
             "included",
-            "required"
+            "server",
+            "client"
           ]
         },
         {
@@ -2281,8 +2281,8 @@
           "type": "mod",
           "options": [
             "included",
-            "required",
             "client",
+            "required",
             "server"
           ]
         },
@@ -2295,10 +2295,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "client",
-            "included"
+            "required",
+            "included",
+            "server"
           ]
         },
         {
@@ -2311,8 +2311,8 @@
           "type": "mod",
           "options": [
             "server",
-            "included",
             "client",
+            "included",
             "required"
           ]
         },
@@ -2325,9 +2325,9 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "included",
             "required",
+            "client",
             "server"
           ]
         },
@@ -2340,10 +2340,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
-            "included",
-            "client"
+            "client",
+            "server",
+            "included"
           ]
         },
         {
@@ -2355,10 +2355,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "included",
-            "client",
-            "required"
+            "server",
+            "required",
+            "client"
           ]
         },
         {
@@ -2371,9 +2371,9 @@
           "type": "mod",
           "options": [
             "included",
+            "server",
             "required",
-            "client",
-            "server"
+            "client"
           ]
         },
         {
@@ -2385,10 +2385,10 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "included",
             "required",
-            "client",
-            "server"
+            "client"
           ]
         },
         {
@@ -2400,10 +2400,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "server",
-            "required"
+            "required",
+            "included",
+            "client"
           ]
         },
         {
@@ -2430,10 +2430,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "client",
-            "server",
-            "included"
+            "required",
+            "included",
+            "server"
           ]
         },
         {
@@ -2447,8 +2447,8 @@
           "options": [
             "required",
             "server",
-            "included",
-            "client"
+            "client",
+            "included"
           ]
         },
         {
@@ -2460,24 +2460,24 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "included",
+            "server",
             "required",
-            "server"
+            "client"
           ]
         },
         {
           "id": "269973",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:269973:3464562",
+            "artifact": "curse:269973:3514255",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
+            "server",
             "included",
             "required",
-            "server",
             "client"
           ]
         },
@@ -2490,10 +2490,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "included",
+            "client",
             "server",
-            "client"
+            "required"
           ]
         },
         {
@@ -2505,10 +2505,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "client",
             "included",
-            "server"
+            "client",
+            "server",
+            "required"
           ]
         },
         {
@@ -2520,10 +2520,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "required",
+            "server",
             "client",
-            "server"
+            "included",
+            "required"
           ]
         },
         {
@@ -2537,8 +2537,8 @@
           "options": [
             "client",
             "server",
-            "included",
-            "required"
+            "required",
+            "included"
           ]
         },
         {
@@ -2550,9 +2550,9 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "required",
             "included",
-            "client",
             "server"
           ]
         },
@@ -2566,9 +2566,9 @@
           "type": "mod",
           "options": [
             "included",
-            "client",
             "server",
-            "required"
+            "required",
+            "client"
           ]
         },
         {
@@ -2581,9 +2581,9 @@
           "type": "mod",
           "options": [
             "client",
-            "server",
+            "required",
             "included",
-            "required"
+            "server"
           ]
         },
         {
@@ -2596,8 +2596,8 @@
           "type": "mod",
           "options": [
             "required",
-            "server",
             "included",
+            "server",
             "client"
           ]
         },
@@ -2610,10 +2610,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "server",
             "client",
-            "required"
+            "required",
+            "included"
           ]
         },
         {
@@ -2625,10 +2625,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "server",
             "client",
-            "included"
+            "required",
+            "included",
+            "server"
           ]
         },
         {
@@ -2640,10 +2640,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "required",
+            "client",
             "server",
-            "client"
+            "included"
           ]
         },
         {
@@ -2655,8 +2655,8 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "required",
+            "included",
             "server",
             "client"
           ]
@@ -2670,10 +2670,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "client",
-            "included",
-            "server"
+            "required",
+            "server",
+            "included"
           ]
         },
         {
@@ -2685,10 +2685,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "server",
+            "client",
             "required",
-            "client"
+            "server",
+            "included"
           ]
         },
         {
@@ -2700,10 +2700,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
+            "required",
             "client",
-            "server",
-            "required"
+            "included",
+            "server"
           ]
         },
         {
@@ -2715,9 +2715,9 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "included",
             "required",
-            "client",
             "server"
           ]
         },
@@ -2731,8 +2731,8 @@
           "type": "mod",
           "options": [
             "client",
-            "required",
             "server",
+            "required",
             "included"
           ]
         },
@@ -2745,10 +2745,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
             "server",
-            "included"
+            "included",
+            "required",
+            "client"
           ]
         },
         {
@@ -2760,10 +2760,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
+            "required",
             "server",
             "included",
-            "required"
+            "client"
           ]
         },
         {
@@ -2776,8 +2776,8 @@
           "type": "mod",
           "options": [
             "client",
-            "server",
             "required",
+            "server",
             "included"
           ]
         },
@@ -2806,9 +2806,9 @@
           "type": "mod",
           "options": [
             "client",
-            "included",
             "server",
-            "required"
+            "required",
+            "included"
           ]
         },
         {
@@ -2820,10 +2820,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
+            "client",
             "server",
-            "client"
+            "required",
+            "included"
           ]
         },
         {
@@ -2837,8 +2837,8 @@
           "options": [
             "required",
             "client",
-            "included",
-            "server"
+            "server",
+            "included"
           ]
         },
         {
@@ -2850,10 +2850,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
             "included",
-            "client"
+            "client",
+            "server"
           ]
         },
         {
@@ -2865,10 +2865,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
-            "included",
-            "required"
+            "required",
+            "client",
+            "included"
           ]
         },
         {
@@ -2880,10 +2880,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "included",
-            "client",
-            "server"
+            "server",
+            "required",
+            "client"
           ]
         },
         {
@@ -2895,9 +2895,9 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "included",
+            "required",
+            "server",
             "client"
           ]
         },
@@ -2910,10 +2910,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
             "server",
-            "client"
+            "client",
+            "required",
+            "included"
           ]
         },
         {
@@ -2941,9 +2941,9 @@
           "type": "mod",
           "options": [
             "required",
-            "included",
+            "server",
             "client",
-            "server"
+            "included"
           ]
         },
         {
@@ -2955,9 +2955,9 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "client",
             "server",
+            "required",
             "included"
           ]
         },
@@ -2970,10 +2970,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "included",
-            "client"
+            "client",
+            "required",
+            "server"
           ]
         },
         {
@@ -2985,10 +2985,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "server",
             "client",
-            "included"
+            "server",
+            "included",
+            "required"
           ]
         },
         {
@@ -3001,9 +3001,9 @@
           "type": "mod",
           "options": [
             "required",
+            "server",
             "client",
-            "included",
-            "server"
+            "included"
           ]
         },
         {
@@ -3017,8 +3017,8 @@
           "options": [
             "required",
             "included",
-            "server",
-            "client"
+            "client",
+            "server"
           ]
         },
         {
@@ -3030,10 +3030,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "required",
             "client",
-            "server"
+            "required",
+            "server",
+            "included"
           ]
         },
         {
@@ -3045,10 +3045,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "client",
-            "included"
+            "included",
+            "required",
+            "server"
           ]
         },
         {
@@ -3060,10 +3060,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
+            "included",
             "required",
-            "included"
+            "client",
+            "server"
           ]
         },
         {
@@ -3075,10 +3075,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "required",
+            "server",
             "included",
-            "server"
+            "client"
           ]
         },
         {
@@ -3091,9 +3091,9 @@
           "type": "mod",
           "options": [
             "server",
-            "required",
+            "client",
             "included",
-            "client"
+            "required"
           ]
         },
         {
@@ -3105,10 +3105,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "client",
             "server",
-            "included"
+            "required",
+            "included",
+            "client"
           ]
         },
         {
@@ -3121,9 +3121,9 @@
           "type": "mod",
           "options": [
             "required",
-            "included",
             "client",
-            "server"
+            "server",
+            "included"
           ]
         },
         {
@@ -3135,10 +3135,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "required",
-            "server"
+            "server",
+            "client",
+            "included"
           ]
         },
         {
@@ -3151,8 +3151,8 @@
           "type": "mod",
           "options": [
             "server",
-            "client",
             "required",
+            "client",
             "included"
           ]
         },
@@ -3165,10 +3165,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
             "client",
-            "server"
+            "server",
+            "required",
+            "included"
           ]
         },
         {
@@ -3180,10 +3180,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
-            "required",
-            "included"
+            "server",
+            "included",
+            "required"
           ]
         },
         {
@@ -3195,9 +3195,9 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
             "required",
+            "client",
+            "server",
             "included"
           ]
         },
@@ -3211,9 +3211,9 @@
           "type": "mod",
           "options": [
             "client",
-            "server",
             "required",
-            "included"
+            "included",
+            "server"
           ]
         },
         {
@@ -3225,10 +3225,10 @@
           },
           "type": "mod",
           "options": [
+            "included",
             "server",
-            "required",
             "client",
-            "included"
+            "required"
           ]
         },
         {
@@ -3240,10 +3240,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
             "server",
-            "required"
+            "required",
+            "included"
           ]
         },
         {
@@ -3271,9 +3271,9 @@
           "type": "mod",
           "options": [
             "required",
-            "included",
             "client",
-            "server"
+            "server",
+            "included"
           ]
         },
         {
@@ -3285,8 +3285,8 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
+            "server",
             "client",
             "included"
           ]
@@ -3301,8 +3301,8 @@
           "type": "mod",
           "options": [
             "client",
-            "server",
             "required",
+            "server",
             "included"
           ]
         },
@@ -3315,10 +3315,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
+            "required",
             "client",
             "included",
-            "required"
+            "server"
           ]
         },
         {
@@ -3330,10 +3330,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
             "server",
-            "required"
+            "required",
+            "included"
           ]
         },
         {
@@ -3346,9 +3346,9 @@
           "type": "mod",
           "options": [
             "server",
+            "included",
             "required",
-            "client",
-            "included"
+            "client"
           ]
         },
         {
@@ -3361,8 +3361,8 @@
           "type": "mod",
           "options": [
             "included",
-            "client",
             "required",
+            "client",
             "server"
           ]
         },
@@ -3375,10 +3375,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "client",
+            "included",
             "server",
-            "included"
+            "required"
           ]
         },
         {
@@ -3390,10 +3390,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "required",
             "server",
-            "client"
+            "client",
+            "included",
+            "required"
           ]
         },
         {
@@ -3407,8 +3407,8 @@
           "options": [
             "client",
             "included",
-            "server",
-            "required"
+            "required",
+            "server"
           ]
         },
         {
@@ -3420,10 +3420,10 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "included",
             "server",
-            "required",
-            "client"
+            "required"
           ]
         },
         {
@@ -3435,10 +3435,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
+            "included",
             "client",
-            "included"
+            "server",
+            "required"
           ]
         },
         {
@@ -3450,10 +3450,10 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "server",
             "included",
-            "client",
-            "required"
+            "client"
           ]
         },
         {
@@ -3465,10 +3465,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "client",
             "included",
-            "server"
+            "server",
+            "client",
+            "required"
           ]
         },
         {
@@ -3480,8 +3480,8 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
+            "server",
             "required",
             "included"
           ]
@@ -3495,10 +3495,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
+            "included",
             "client",
             "required",
-            "included"
+            "server"
           ]
         },
         {
@@ -3510,10 +3510,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
+            "server",
             "included",
             "client",
-            "server"
+            "required"
           ]
         },
         {
@@ -3527,23 +3527,23 @@
           "options": [
             "client",
             "required",
-            "server",
-            "included"
+            "included",
+            "server"
           ]
         },
         {
           "id": "523815",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:523815:3462103",
+            "artifact": "curse:523815:3514445",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "required",
-            "server",
             "client",
-            "included"
+            "required",
+            "included",
+            "server"
           ]
         },
         {
@@ -3556,9 +3556,9 @@
           "type": "mod",
           "options": [
             "server",
+            "required",
             "included",
-            "client",
-            "required"
+            "client"
           ]
         },
         {
@@ -3572,8 +3572,8 @@
           "options": [
             "client",
             "server",
-            "required",
-            "included"
+            "included",
+            "required"
           ]
         },
         {
@@ -3585,10 +3585,10 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "client",
             "required",
-            "included",
-            "server"
+            "included"
           ]
         },
         {
@@ -3600,10 +3600,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
             "included",
-            "server"
+            "client",
+            "server",
+            "required"
           ]
         },
         {
@@ -3615,9 +3615,9 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "server",
             "client",
+            "required",
             "included"
           ]
         },
@@ -3630,10 +3630,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
+            "included",
             "server",
             "required",
-            "included"
+            "client"
           ]
         },
         {
@@ -3641,10 +3641,10 @@
           "versions": "[1.12.2-14.23.5.2855]",
           "type": "modloader",
           "options": [
-            "server",
             "client",
-            "included",
-            "required"
+            "server",
+            "required",
+            "included"
           ]
         }
       ]

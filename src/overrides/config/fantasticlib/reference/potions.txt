@@ -121,13 +121,13 @@ mobultion:vomit_potion
 mobultion:blessed_potion
 mobultion:invert_potion
 totaltinkers:hemorrhage
-cuisine:dispersal
-cuisine:hot
 cuisine:sustained_release
-cuisine:cold_blood
 cuisine:drunk
-cuisine:toughness
 cuisine:effect_resistance
+cuisine:dispersal
+cuisine:toughness
+cuisine:hot
+cuisine:cold_blood
 apotheosis:sundering
 apotheosis:knowledge
 enderzoo:enderzoo.floatingpotion
