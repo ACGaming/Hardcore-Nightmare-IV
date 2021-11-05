@@ -1,5 +1,5 @@
 {
-  "id": "hardcore-nightmare-iv",
+  "id": "Hardcore Nightmare IV",
   "type": "modpack",
   "versions": [
     {
@@ -13,9 +13,9 @@
           "installer": "internal.override",
           "link": "file://overrides",
           "options": [
+            "included",
             "client",
             "required",
-            "included",
             "server"
           ]
         }
@@ -30,10 +30,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "server",
+            "required",
             "client",
-            "required"
+            "included"
           ]
         },
         {
@@ -45,10 +45,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "required",
             "included",
-            "server"
+            "server",
+            "client"
           ]
         },
         {
@@ -60,25 +60,25 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "client",
             "server",
-            "included"
+            "required",
+            "included",
+            "client"
           ]
         },
         {
           "id": "408853",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:408853:3060450",
+            "artifact": "curse:408853:3482053",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
             "included",
-            "required",
-            "client"
+            "required"
           ]
         },
         {
@@ -90,10 +90,10 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
             "required",
-            "included",
-            "client"
+            "included"
           ]
         },
         {
@@ -105,9 +105,9 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "included",
             "client",
+            "required",
             "server"
           ]
         },
@@ -120,9 +120,9 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "client",
             "server",
-            "required",
             "included"
           ]
         },
@@ -135,10 +135,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
             "included",
-            "server"
+            "client",
+            "server",
+            "required"
           ]
         },
         {
@@ -150,10 +150,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "included",
+            "required",
             "client",
-            "required"
+            "server",
+            "included"
           ]
         },
         {
@@ -166,9 +166,9 @@
           "type": "mod",
           "options": [
             "included",
+            "client",
             "server",
-            "required",
-            "client"
+            "required"
           ]
         },
         {
@@ -181,8 +181,8 @@
           "type": "mod",
           "options": [
             "included",
-            "server",
             "required",
+            "server",
             "client"
           ]
         },
@@ -195,10 +195,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
+            "included",
             "required",
-            "included"
+            "server",
+            "client"
           ]
         },
         {
@@ -210,10 +210,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
+            "included",
             "required",
-            "included"
+            "client"
           ]
         },
         {
@@ -225,10 +225,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "included",
             "server",
-            "required"
+            "required",
+            "included",
+            "client"
           ]
         },
         {
@@ -240,10 +240,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "required",
+            "client",
             "server",
-            "client"
+            "included"
           ]
         },
         {
@@ -255,10 +255,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
             "required",
-            "server"
+            "server",
+            "included"
           ]
         },
         {
@@ -270,9 +270,9 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "included",
             "client",
+            "included",
+            "server",
             "required"
           ]
         },
@@ -285,10 +285,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
             "required",
-            "included"
+            "server",
+            "included",
+            "client"
           ]
         },
         {
@@ -301,24 +301,24 @@
           "type": "mod",
           "options": [
             "required",
+            "client",
             "server",
-            "included",
-            "client"
+            "included"
           ]
         },
         {
           "id": "259230",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:259230:3447723",
+            "artifact": "curse:259230:3492458",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "required",
             "included",
-            "client",
-            "server"
+            "required",
+            "server",
+            "client"
           ]
         },
         {
@@ -330,10 +330,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
+            "server",
             "required",
-            "server"
+            "included"
           ]
         },
         {
@@ -347,8 +347,8 @@
           "options": [
             "included",
             "client",
-            "required",
-            "server"
+            "server",
+            "required"
           ]
         },
         {
@@ -360,10 +360,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
+            "included",
             "server",
-            "included"
+            "client",
+            "required"
           ]
         },
         {
@@ -376,9 +376,9 @@
           "type": "mod",
           "options": [
             "client",
+            "required",
             "server",
-            "included",
-            "required"
+            "included"
           ]
         },
         {
@@ -390,9 +390,9 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
             "included",
-            "client",
             "required"
           ]
         },
@@ -405,10 +405,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "included",
-            "client"
+            "client",
+            "required",
+            "server"
           ]
         },
         {
@@ -420,10 +420,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
+            "client",
             "server",
-            "client"
+            "included",
+            "required"
           ]
         },
         {
@@ -435,10 +435,10 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
-            "required",
             "included",
-            "client"
+            "required"
           ]
         },
         {
@@ -450,10 +450,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
+            "server",
             "client",
-            "server"
+            "required",
+            "included"
           ]
         },
         {
@@ -465,9 +465,9 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
             "required",
+            "client",
+            "server",
             "included"
           ]
         },
@@ -480,8 +480,8 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
+            "client",
             "included",
             "required"
           ]
@@ -495,10 +495,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
+            "client",
             "server",
-            "included",
-            "client"
+            "required",
+            "included"
           ]
         },
         {
@@ -510,10 +510,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "server",
-            "client",
-            "included"
+            "included",
+            "required",
+            "client"
           ]
         },
         {
@@ -525,10 +525,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "included",
-            "client"
+            "client",
+            "required",
+            "server"
           ]
         },
         {
@@ -540,10 +540,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "required",
             "client",
-            "server"
+            "included",
+            "server",
+            "required"
           ]
         },
         {
@@ -555,10 +555,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
-            "included",
-            "required"
+            "server",
+            "required",
+            "included"
           ]
         },
         {
@@ -570,24 +570,24 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "required",
-            "server"
+            "server",
+            "client",
+            "included"
           ]
         },
         {
           "id": "239197",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:239197:3435328",
+            "artifact": "curse:239197:3507384",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
             "required",
-            "client",
             "server",
+            "client",
             "included"
           ]
         },
@@ -600,10 +600,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "server",
+            "client",
             "required",
-            "client"
+            "included",
+            "server"
           ]
         },
         {
@@ -615,10 +615,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "required",
             "server",
-            "client"
+            "required",
+            "client",
+            "included"
           ]
         },
         {
@@ -631,9 +631,9 @@
           "type": "mod",
           "options": [
             "required",
-            "included",
+            "client",
             "server",
-            "client"
+            "included"
           ]
         },
         {
@@ -645,9 +645,9 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "included",
             "server",
-            "required",
             "client"
           ]
         },
@@ -661,9 +661,9 @@
           "type": "mod",
           "options": [
             "included",
+            "server",
             "client",
-            "required",
-            "server"
+            "required"
           ]
         },
         {
@@ -676,8 +676,8 @@
           "type": "mod",
           "options": [
             "required",
-            "server",
             "client",
+            "server",
             "included"
           ]
         },
@@ -690,25 +690,25 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "client",
-            "included",
             "required",
-            "server"
+            "included"
           ]
         },
         {
           "id": "244844",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:244844:3137504",
+            "artifact": "curse:244844:3505633",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "client",
-            "included"
+            "server",
+            "included",
+            "required"
           ]
         },
         {
@@ -720,9 +720,9 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
             "required",
+            "server",
             "included"
           ]
         },
@@ -735,10 +735,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "server",
+            "included",
             "client",
-            "included"
+            "required"
           ]
         },
         {
@@ -750,10 +750,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "required",
-            "included",
-            "server"
+            "client",
+            "server",
+            "included"
           ]
         },
         {
@@ -765,10 +765,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
-            "server",
-            "required"
+            "required",
+            "included",
+            "server"
           ]
         },
         {
@@ -780,10 +780,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "included",
-            "client",
-            "server"
+            "server",
+            "required",
+            "client"
           ]
         },
         {
@@ -795,10 +795,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
             "server",
-            "included"
+            "included",
+            "client",
+            "required"
           ]
         },
         {
@@ -825,10 +825,10 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "included",
-            "client",
             "required",
-            "server"
+            "client"
           ]
         },
         {
@@ -840,10 +840,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "server",
+            "client",
             "included",
-            "client"
+            "server",
+            "required"
           ]
         },
         {
@@ -855,10 +855,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "server",
             "included",
-            "client"
+            "client",
+            "required"
           ]
         },
         {
@@ -870,10 +870,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "included",
             "server",
-            "required"
+            "required",
+            "included",
+            "client"
           ]
         },
         {
@@ -886,9 +886,9 @@
           "type": "mod",
           "options": [
             "server",
-            "required",
             "included",
-            "client"
+            "client",
+            "required"
           ]
         },
         {
@@ -900,10 +900,10 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "required",
             "included",
-            "client",
-            "server"
+            "client"
           ]
         },
         {
@@ -915,10 +915,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
             "required",
-            "included"
+            "included",
+            "client"
           ]
         },
         {
@@ -930,24 +930,24 @@
           },
           "type": "mod",
           "options": [
-            "client",
+            "included",
             "server",
             "required",
-            "included"
+            "client"
           ]
         },
         {
           "id": "224808",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:224808:2935936",
+            "artifact": "curse:224808:3490351",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
+            "server",
             "required",
             "client",
-            "server",
             "included"
           ]
         },
@@ -960,10 +960,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
-            "client",
-            "included"
+            "included",
+            "server",
+            "client"
           ]
         },
         {
@@ -975,10 +975,10 @@
           },
           "type": "mod",
           "options": [
+            "included",
             "client",
-            "required",
             "server",
-            "included"
+            "required"
           ]
         },
         {
@@ -990,10 +990,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
+            "server",
             "required",
-            "server"
+            "included",
+            "client"
           ]
         },
         {
@@ -1005,10 +1005,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "included",
-            "required"
+            "required",
+            "server",
+            "client"
           ]
         },
         {
@@ -1020,10 +1020,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
+            "required",
             "included",
-            "server",
-            "required"
+            "client",
+            "server"
           ]
         },
         {
@@ -1035,10 +1035,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "required",
-            "server"
+            "server",
+            "client",
+            "included"
           ]
         },
         {
@@ -1051,8 +1051,8 @@
           "type": "mod",
           "options": [
             "server",
-            "client",
             "included",
+            "client",
             "required"
           ]
         },
@@ -1065,10 +1065,10 @@
           },
           "type": "mod",
           "options": [
+            "included",
             "server",
-            "client",
             "required",
-            "included"
+            "client"
           ]
         },
         {
@@ -1080,10 +1080,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "required",
-            "server"
+            "server",
+            "client",
+            "included"
           ]
         },
         {
@@ -1096,9 +1096,9 @@
           "type": "mod",
           "options": [
             "client",
-            "server",
             "required",
-            "included"
+            "included",
+            "server"
           ]
         },
         {
@@ -1110,9 +1110,9 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "included",
             "server",
+            "client",
             "required"
           ]
         },
@@ -1125,10 +1125,10 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "required",
             "included",
-            "client",
-            "server"
+            "client"
           ]
         },
         {
@@ -1140,10 +1140,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
             "server",
-            "included"
+            "included",
+            "client",
+            "required"
           ]
         },
         {
@@ -1155,10 +1155,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
-            "required",
-            "included"
+            "client",
+            "included",
+            "required"
           ]
         },
         {
@@ -1170,10 +1170,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "included",
-            "client"
+            "client",
+            "required",
+            "server"
           ]
         },
         {
@@ -1185,25 +1185,25 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
             "client",
-            "server"
+            "server",
+            "required",
+            "included"
           ]
         },
         {
           "id": "308663",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:308663:3443407",
+            "artifact": "curse:308663:3485944",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
             "included",
             "client",
-            "server",
-            "required"
+            "required",
+            "server"
           ]
         },
         {
@@ -1215,9 +1215,9 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "included",
             "server",
+            "included",
+            "client",
             "required"
           ]
         },
@@ -1230,10 +1230,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "included",
             "client",
-            "server"
+            "server",
+            "required"
           ]
         },
         {
@@ -1245,10 +1245,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "required",
             "included",
-            "server"
+            "server",
+            "client"
           ]
         },
         {
@@ -1262,8 +1262,8 @@
           "options": [
             "client",
             "required",
-            "included",
-            "server"
+            "server",
+            "included"
           ]
         },
         {
@@ -1275,10 +1275,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
             "server",
-            "required"
+            "required",
+            "included"
           ]
         },
         {
@@ -1290,9 +1290,9 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "required",
             "server",
+            "included",
             "client"
           ]
         },
@@ -1305,8 +1305,8 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "server",
+            "required",
             "included",
             "client"
           ]
@@ -1320,25 +1320,25 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
             "required",
-            "included"
+            "client",
+            "included",
+            "server"
           ]
         },
         {
           "id": "460609",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:460609:3457082",
+            "artifact": "curse:460609:3510475",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "client",
+            "included",
             "server",
             "required",
-            "included"
+            "client"
           ]
         },
         {
@@ -1350,10 +1350,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "required",
-            "server"
+            "server",
+            "client",
+            "included"
           ]
         },
         {
@@ -1365,24 +1365,24 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "server",
             "client",
-            "included"
+            "server",
+            "included",
+            "required"
           ]
         },
         {
           "id": "268495",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:268495:3227897",
+            "artifact": "curse:268495:3476612",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
             "server",
-            "client",
             "required",
+            "client",
             "included"
           ]
         },
@@ -1397,8 +1397,8 @@
           "options": [
             "client",
             "included",
-            "required",
-            "server"
+            "server",
+            "required"
           ]
         },
         {
@@ -1410,9 +1410,9 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "required",
             "client",
+            "required",
+            "included",
             "server"
           ]
         },
@@ -1425,10 +1425,10 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "required",
-            "client",
             "included",
-            "server"
+            "client"
           ]
         },
         {
@@ -1441,9 +1441,9 @@
           "type": "mod",
           "options": [
             "included",
-            "client",
             "server",
-            "required"
+            "required",
+            "client"
           ]
         },
         {
@@ -1455,10 +1455,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
+            "required",
             "server",
-            "included",
-            "required"
+            "client",
+            "included"
           ]
         },
         {
@@ -1470,10 +1470,10 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "client",
-            "required",
             "included",
-            "server"
+            "required"
           ]
         },
         {
@@ -1485,10 +1485,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
+            "client",
             "server",
-            "client"
+            "required",
+            "included"
           ]
         },
         {
@@ -1500,9 +1500,9 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "server",
+            "client",
+            "included",
             "required"
           ]
         },
@@ -1515,9 +1515,9 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
             "required",
-            "client",
             "included"
           ]
         },
@@ -1545,10 +1545,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
-            "required",
-            "server"
+            "server",
+            "included",
+            "required"
           ]
         },
         {
@@ -1560,10 +1560,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
+            "server",
             "client",
-            "server"
+            "included",
+            "required"
           ]
         },
         {
@@ -1575,10 +1575,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "required",
-            "server",
-            "included"
+            "included",
+            "client",
+            "server"
           ]
         },
         {
@@ -1591,9 +1591,9 @@
           "type": "mod",
           "options": [
             "required",
-            "client",
+            "included",
             "server",
-            "included"
+            "client"
           ]
         },
         {
@@ -1605,10 +1605,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "included",
             "client",
-            "required"
+            "server",
+            "required",
+            "included"
           ]
         },
         {
@@ -1621,9 +1621,9 @@
           "type": "mod",
           "options": [
             "included",
-            "client",
+            "server",
             "required",
-            "server"
+            "client"
           ]
         },
         {
@@ -1635,9 +1635,9 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "required",
             "included",
+            "client",
             "server"
           ]
         },
@@ -1650,10 +1650,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "included",
-            "required",
-            "client"
+            "client",
+            "server",
+            "required"
           ]
         },
         {
@@ -1665,10 +1665,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
+            "included",
             "required",
-            "included"
+            "client"
           ]
         },
         {
@@ -1680,9 +1680,9 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "client",
             "required",
-            "server",
             "included"
           ]
         },
@@ -1695,10 +1695,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "required",
-            "included"
+            "included",
+            "client",
+            "server"
           ]
         },
         {
@@ -1710,10 +1710,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
+            "server",
             "included",
-            "server"
+            "required",
+            "client"
           ]
         },
         {
@@ -1725,9 +1725,9 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
             "required",
-            "client",
             "included"
           ]
         },
@@ -1740,10 +1740,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
+            "required",
             "server",
-            "included",
-            "required"
+            "client",
+            "included"
           ]
         },
         {
@@ -1757,38 +1757,38 @@
           "options": [
             "included",
             "required",
-            "server",
-            "client"
+            "client",
+            "server"
           ]
         },
         {
           "id": "297680",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:297680:2810589",
+            "artifact": "curse:297680:3499324",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "required",
-            "server",
             "included",
-            "client"
+            "client",
+            "required",
+            "server"
           ]
         },
         {
           "id": "258587",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:258587:2959712",
+            "artifact": "curse:258587:3487676",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
-            "required",
             "included",
-            "client"
+            "required"
           ]
         },
         {
@@ -1800,10 +1800,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "included",
-            "client"
+            "client",
+            "required",
+            "server"
           ]
         },
         {
@@ -1815,9 +1815,9 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
             "required",
-            "client",
             "included"
           ]
         },
@@ -1830,10 +1830,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "included",
-            "client"
+            "server",
+            "client",
+            "required"
           ]
         },
         {
@@ -1845,10 +1845,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "client",
-            "server",
-            "included"
+            "required",
+            "included",
+            "server"
           ]
         },
         {
@@ -1861,24 +1861,24 @@
           "type": "mod",
           "options": [
             "server",
-            "included",
+            "required",
             "client",
-            "required"
+            "included"
           ]
         },
         {
           "id": "274259",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:274259:3271178",
+            "artifact": "curse:274259:3498879",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
+            "included",
             "client",
-            "server",
             "required",
-            "included"
+            "server"
           ]
         },
         {
@@ -1890,10 +1890,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
+            "client",
             "included",
-            "required",
-            "client"
+            "server",
+            "required"
           ]
         },
         {
@@ -1905,10 +1905,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "included",
             "required",
-            "server"
+            "included",
+            "server",
+            "client"
           ]
         },
         {
@@ -1920,9 +1920,9 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "server",
             "client",
+            "required",
             "included"
           ]
         },
@@ -1937,8 +1937,8 @@
           "options": [
             "client",
             "included",
-            "required",
-            "server"
+            "server",
+            "required"
           ]
         },
         {
@@ -1965,10 +1965,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "required",
+            "server",
             "included",
-            "server"
+            "client"
           ]
         },
         {
@@ -1980,10 +1980,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
+            "required",
             "client",
             "server",
-            "required"
+            "included"
           ]
         },
         {
@@ -1996,24 +1996,24 @@
           "type": "mod",
           "options": [
             "required",
-            "client",
+            "included",
             "server",
-            "included"
+            "client"
           ]
         },
         {
           "id": "284350",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:284350:3063275",
+            "artifact": "curse:284350:3466382",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
+            "included",
             "required",
-            "included"
+            "client"
           ]
         },
         {
@@ -2025,10 +2025,10 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "server",
-            "client",
             "included",
-            "required"
+            "client"
           ]
         },
         {
@@ -2040,25 +2040,25 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "included",
             "client",
-            "server",
-            "required"
+            "server"
           ]
         },
         {
           "id": "310059",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:310059:3194413",
+            "artifact": "curse:310059:3510765",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
             "included",
-            "server"
+            "client",
+            "server",
+            "required"
           ]
         },
         {
@@ -2070,10 +2070,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
             "included",
-            "client"
+            "client",
+            "server"
           ]
         },
         {
@@ -2086,9 +2086,9 @@
           "type": "mod",
           "options": [
             "server",
-            "client",
             "required",
-            "included"
+            "included",
+            "client"
           ]
         },
         {
@@ -2100,8 +2100,8 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
+            "client",
             "required",
             "included"
           ]
@@ -2115,9 +2115,9 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "server",
             "client",
-            "required",
             "included"
           ]
         },
@@ -2132,8 +2132,8 @@
           "options": [
             "server",
             "required",
-            "included",
-            "client"
+            "client",
+            "included"
           ]
         },
         {
@@ -2146,8 +2146,8 @@
           "type": "mod",
           "options": [
             "server",
-            "required",
             "client",
+            "required",
             "included"
           ]
         },
@@ -2160,10 +2160,10 @@
           },
           "type": "mod",
           "options": [
+            "required",
             "included",
-            "server",
             "client",
-            "required"
+            "server"
           ]
         },
         {
@@ -2175,10 +2175,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
+            "client",
             "server",
-            "client"
+            "required",
+            "included"
           ]
         },
         {
@@ -2190,10 +2190,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
+            "included",
             "required",
-            "server",
-            "included"
+            "client",
+            "server"
           ]
         },
         {
@@ -2205,10 +2205,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
             "server",
-            "included"
+            "included",
+            "client",
+            "required"
           ]
         },
         {
@@ -2222,8 +2222,23 @@
           "options": [
             "client",
             "included",
-            "required",
-            "server"
+            "server",
+            "required"
+          ]
+        },
+        {
+          "id": "381597",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:381597:3299987",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "client",
+            "included",
+            "server",
+            "required"
           ]
         },
         {
@@ -2235,10 +2250,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "included",
             "required",
-            "client"
+            "included",
+            "client",
+            "server"
           ]
         },
         {
@@ -2250,9 +2265,9 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "client",
             "server",
+            "included",
             "required"
           ]
         },
@@ -2265,10 +2280,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "server",
             "included",
-            "client"
+            "required",
+            "client",
+            "server"
           ]
         },
         {
@@ -2280,9 +2295,9 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
             "required",
+            "client",
             "included"
           ]
         },
@@ -2290,14 +2305,14 @@
           "id": "255389",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:255389:3437859",
+            "artifact": "curse:255389:3507523",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
             "included",
+            "client",
             "required"
           ]
         },
@@ -2310,6 +2325,21 @@
           },
           "type": "mod",
           "options": [
+            "client",
+            "included",
+            "required",
+            "server"
+          ]
+        },
+        {
+          "id": "254284",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:254284:3495032",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
             "server",
             "required",
             "included",
@@ -2317,33 +2347,18 @@
           ]
         },
         {
-          "id": "254284",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse:254284:3223298",
-            "repository": "curseforge"
-          },
-          "type": "mod",
-          "options": [
-            "server",
-            "required",
-            "client",
-            "included"
-          ]
-        },
-        {
           "id": "367103",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:367103:2980239",
+            "artifact": "curse:367103:3488117",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
-            "required",
-            "included"
+            "included",
+            "client",
+            "required"
           ]
         },
         {
@@ -2355,10 +2370,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
+            "included",
             "required",
-            "server",
-            "included"
+            "client",
+            "server"
           ]
         },
         {
@@ -2370,10 +2385,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "included",
-            "required"
+            "required",
+            "client",
+            "server"
           ]
         },
         {
@@ -2385,9 +2400,9 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "included",
             "client",
+            "server",
             "required"
           ]
         },
@@ -2400,10 +2415,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
+            "server",
             "included",
-            "server"
+            "required",
+            "client"
           ]
         },
         {
@@ -2415,10 +2430,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "required",
+            "client",
             "server",
-            "client"
+            "included"
           ]
         },
         {
@@ -2430,10 +2445,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "required",
-            "included"
+            "server",
+            "included",
+            "client"
           ]
         },
         {
@@ -2445,9 +2460,9 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "included",
             "client",
+            "included",
+            "required",
             "server"
           ]
         },
@@ -2455,14 +2470,14 @@
           "id": "269973",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:269973:3445087",
+            "artifact": "curse:269973:3464562",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
             "included",
-            "server",
             "required",
+            "server",
             "client"
           ]
         },
@@ -2475,10 +2490,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
+            "required",
             "included",
-            "required"
+            "server",
+            "client"
           ]
         },
         {
@@ -2490,10 +2505,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
+            "required",
             "client",
-            "server",
-            "required"
+            "included",
+            "server"
           ]
         },
         {
@@ -2505,10 +2520,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "included",
+            "required",
             "client",
-            "required"
+            "server"
           ]
         },
         {
@@ -2520,10 +2535,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
-            "required",
-            "included"
+            "server",
+            "included",
+            "required"
           ]
         },
         {
@@ -2535,10 +2550,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
             "required",
-            "included"
+            "included",
+            "client",
+            "server"
           ]
         },
         {
@@ -2552,8 +2567,8 @@
           "options": [
             "included",
             "client",
-            "required",
-            "server"
+            "server",
+            "required"
           ]
         },
         {
@@ -2565,10 +2580,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
-            "server",
             "client",
-            "included"
+            "server",
+            "included",
+            "required"
           ]
         },
         {
@@ -2580,10 +2595,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "required",
+            "server",
             "included",
-            "server"
+            "client"
           ]
         },
         {
@@ -2595,10 +2610,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "included",
-            "client"
+            "server",
+            "client",
+            "required"
           ]
         },
         {
@@ -2610,8 +2625,8 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
+            "server",
             "client",
             "included"
           ]
@@ -2620,13 +2635,13 @@
           "id": "319175",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:319175:3356013",
+            "artifact": "curse:319175:3468205",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "required",
             "included",
+            "required",
             "server",
             "client"
           ]
@@ -2640,10 +2655,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
+            "included",
             "required",
             "server",
-            "included"
+            "client"
           ]
         },
         {
@@ -2655,8 +2670,8 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "required",
+            "client",
             "included",
             "server"
           ]
@@ -2670,10 +2685,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "included",
-            "client",
-            "server"
+            "server",
+            "required",
+            "client"
           ]
         },
         {
@@ -2701,8 +2716,8 @@
           "type": "mod",
           "options": [
             "included",
-            "client",
             "required",
+            "client",
             "server"
           ]
         },
@@ -2716,8 +2731,8 @@
           "type": "mod",
           "options": [
             "client",
-            "server",
             "required",
+            "server",
             "included"
           ]
         },
@@ -2730,8 +2745,8 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "client",
+            "required",
             "server",
             "included"
           ]
@@ -2745,10 +2760,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
+            "client",
             "server",
-            "required",
-            "client"
+            "included",
+            "required"
           ]
         },
         {
@@ -2760,10 +2775,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
-            "included",
-            "required"
+            "server",
+            "required",
+            "included"
           ]
         },
         {
@@ -2775,10 +2790,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
             "client",
-            "included",
-            "server"
+            "server",
+            "required",
+            "included"
           ]
         },
         {
@@ -2790,10 +2805,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
+            "client",
             "included",
-            "client"
+            "server",
+            "required"
           ]
         },
         {
@@ -2805,10 +2820,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "required",
-            "included"
+            "included",
+            "server",
+            "client"
           ]
         },
         {
@@ -2821,9 +2836,9 @@
           "type": "mod",
           "options": [
             "required",
-            "server",
             "client",
-            "included"
+            "included",
+            "server"
           ]
         },
         {
@@ -2835,10 +2850,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "required",
             "server",
-            "included"
+            "required",
+            "included",
+            "client"
           ]
         },
         {
@@ -2850,10 +2865,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "client",
-            "included"
+            "server",
+            "included",
+            "required"
           ]
         },
         {
@@ -2865,25 +2880,25 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
             "included",
-            "client"
+            "client",
+            "server"
           ]
         },
         {
           "id": "257814",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:257814:3437866",
+            "artifact": "curse:257814:3467576",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
             "required",
-            "included"
+            "included",
+            "client"
           ]
         },
         {
@@ -2896,24 +2911,24 @@
           "type": "mod",
           "options": [
             "required",
+            "included",
             "server",
-            "client",
-            "included"
+            "client"
           ]
         },
         {
           "id": "220954",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:220954:3368737",
+            "artifact": "curse:220954:3488553",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
             "required",
+            "included",
             "client",
-            "server",
-            "included"
+            "server"
           ]
         },
         {
@@ -2925,10 +2940,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "required",
-            "server",
-            "included"
+            "included",
+            "client",
+            "server"
           ]
         },
         {
@@ -2941,9 +2956,9 @@
           "type": "mod",
           "options": [
             "required",
-            "included",
             "client",
-            "server"
+            "server",
+            "included"
           ]
         },
         {
@@ -2955,10 +2970,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
+            "required",
             "included",
-            "required"
+            "client"
           ]
         },
         {
@@ -2970,10 +2985,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "required",
+            "server",
             "client",
-            "server"
+            "included"
           ]
         },
         {
@@ -2985,9 +3000,9 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "required",
             "client",
+            "included",
             "server"
           ]
         },
@@ -3000,10 +3015,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "included",
             "required",
-            "server"
+            "included",
+            "server",
+            "client"
           ]
         },
         {
@@ -3015,10 +3030,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
+            "included",
             "required",
-            "server",
-            "included"
+            "client",
+            "server"
           ]
         },
         {
@@ -3030,10 +3045,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "included",
             "server",
-            "required"
+            "required",
+            "client",
+            "included"
           ]
         },
         {
@@ -3045,10 +3060,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
-            "included",
             "server",
-            "required"
+            "client",
+            "required",
+            "included"
           ]
         },
         {
@@ -3062,8 +3077,8 @@
           "options": [
             "client",
             "required",
-            "server",
-            "included"
+            "included",
+            "server"
           ]
         },
         {
@@ -3076,9 +3091,9 @@
           "type": "mod",
           "options": [
             "server",
-            "client",
             "required",
-            "included"
+            "included",
+            "client"
           ]
         },
         {
@@ -3090,10 +3105,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "server",
+            "required",
             "client",
-            "required"
+            "server",
+            "included"
           ]
         },
         {
@@ -3107,8 +3122,8 @@
           "options": [
             "required",
             "included",
-            "server",
-            "client"
+            "client",
+            "server"
           ]
         },
         {
@@ -3120,10 +3135,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "included",
+            "client",
             "required",
-            "client"
+            "server"
           ]
         },
         {
@@ -3135,10 +3150,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "server",
+            "client",
             "required",
-            "client"
+            "included"
           ]
         },
         {
@@ -3150,10 +3165,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
+            "required",
             "included",
             "client",
-            "required"
+            "server"
           ]
         },
         {
@@ -3166,9 +3181,9 @@
           "type": "mod",
           "options": [
             "server",
+            "client",
             "required",
-            "included",
-            "client"
+            "included"
           ]
         },
         {
@@ -3180,10 +3195,10 @@
           },
           "type": "mod",
           "options": [
-            "included",
             "server",
+            "client",
             "required",
-            "client"
+            "included"
           ]
         },
         {
@@ -3212,30 +3227,15 @@
           "options": [
             "server",
             "required",
-            "included",
-            "client"
+            "client",
+            "included"
           ]
         },
         {
           "id": "238891",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:238891:3098835",
-            "repository": "curseforge"
-          },
-          "type": "mod",
-          "options": [
-            "server",
-            "client",
-            "required",
-            "included"
-          ]
-        },
-        {
-          "id": "267939",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse:267939:2997129",
+            "artifact": "curse:238891:3497269",
             "repository": "curseforge"
           },
           "type": "mod",
@@ -3247,6 +3247,21 @@
           ]
         },
         {
+          "id": "267939",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse:267939:2997129",
+            "repository": "curseforge"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "included",
+            "server"
+          ]
+        },
+        {
           "id": "266824",
           "file": {
             "installer": "internal.dir:mods",
@@ -3255,10 +3270,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
             "required",
-            "included"
+            "included",
+            "client",
+            "server"
           ]
         },
         {
@@ -3271,8 +3286,8 @@
           "type": "mod",
           "options": [
             "server",
-            "client",
             "required",
+            "client",
             "included"
           ]
         },
@@ -3285,8 +3300,8 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
+            "server",
             "required",
             "included"
           ]
@@ -3300,9 +3315,9 @@
           },
           "type": "mod",
           "options": [
-            "included",
-            "client",
             "server",
+            "client",
+            "included",
             "required"
           ]
         },
@@ -3315,9 +3330,9 @@
           },
           "type": "mod",
           "options": [
+            "included",
             "client",
             "server",
-            "included",
             "required"
           ]
         },
@@ -3330,10 +3345,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
-            "included",
-            "required"
+            "required",
+            "client",
+            "included"
           ]
         },
         {
@@ -3345,10 +3360,10 @@
           },
           "type": "mod",
           "options": [
+            "included",
             "client",
             "required",
-            "server",
-            "included"
+            "server"
           ]
         },
         {
@@ -3361,9 +3376,9 @@
           "type": "mod",
           "options": [
             "required",
+            "client",
             "server",
-            "included",
-            "client"
+            "included"
           ]
         },
         {
@@ -3375,10 +3390,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "included",
-            "client",
-            "required"
+            "required",
+            "server",
+            "client"
           ]
         },
         {
@@ -3391,8 +3406,8 @@
           "type": "mod",
           "options": [
             "client",
-            "server",
             "included",
+            "server",
             "required"
           ]
         },
@@ -3405,9 +3420,9 @@
           },
           "type": "mod",
           "options": [
+            "included",
             "server",
             "required",
-            "included",
             "client"
           ]
         },
@@ -3421,9 +3436,9 @@
           "type": "mod",
           "options": [
             "server",
-            "included",
+            "required",
             "client",
-            "required"
+            "included"
           ]
         },
         {
@@ -3435,10 +3450,10 @@
           },
           "type": "mod",
           "options": [
-            "required",
+            "server",
             "included",
             "client",
-            "server"
+            "required"
           ]
         },
         {
@@ -3450,10 +3465,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "required",
             "client",
-            "included"
+            "included",
+            "server"
           ]
         },
         {
@@ -3465,10 +3480,10 @@
           },
           "type": "mod",
           "options": [
+            "server",
             "client",
-            "included",
             "required",
-            "server"
+            "included"
           ]
         },
         {
@@ -3481,9 +3496,9 @@
           "type": "mod",
           "options": [
             "server",
-            "included",
+            "client",
             "required",
-            "client"
+            "included"
           ]
         },
         {
@@ -3495,10 +3510,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "client",
+            "required",
             "included",
-            "required"
+            "client",
+            "server"
           ]
         },
         {
@@ -3510,24 +3525,24 @@
           },
           "type": "mod",
           "options": [
-            "included",
+            "client",
             "required",
             "server",
-            "client"
+            "included"
           ]
         },
         {
           "id": "523815",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse:523815:3453101",
+            "artifact": "curse:523815:3462103",
             "repository": "curseforge"
           },
           "type": "mod",
           "options": [
-            "client",
-            "server",
             "required",
+            "server",
+            "client",
             "included"
           ]
         },
@@ -3540,10 +3555,10 @@
           },
           "type": "mod",
           "options": [
-            "client",
             "server",
-            "required",
-            "included"
+            "included",
+            "client",
+            "required"
           ]
         },
         {
@@ -3570,10 +3585,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
-            "required",
             "client",
-            "included"
+            "required",
+            "included",
+            "server"
           ]
         },
         {
@@ -3585,10 +3600,10 @@
           },
           "type": "mod",
           "options": [
-            "server",
             "client",
             "required",
-            "included"
+            "included",
+            "server"
           ]
         },
         {
@@ -3601,9 +3616,9 @@
           "type": "mod",
           "options": [
             "required",
+            "server",
             "client",
-            "included",
-            "server"
+            "included"
           ]
         },
         {
@@ -3615,10 +3630,10 @@
           },
           "type": "mod",
           "options": [
+            "client",
             "server",
-            "included",
             "required",
-            "client"
+            "included"
           ]
         },
         {
@@ -3626,10 +3641,10 @@
           "versions": "[1.12.2-14.23.5.2855]",
           "type": "modloader",
           "options": [
-            "included",
-            "required",
             "server",
-            "client"
+            "client",
+            "included",
+            "required"
           ]
         }
       ]
